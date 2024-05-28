@@ -1,0 +1,1000 @@
+1,Eng Han Solo,Human,37
+2,Eng Jim Kirk,Human,59
+3,Eng Hera Syndula,Twi'lek,85
+4,Eng Princess Lia Organa,Human,7
+5,Eng Caleb Doom,Human,33
+6,Eng Spock,Vulcan,55
+7,Eng Rey Skywalker,Human,81
+8,Eng Malcolm Reynolds,Human,12
+9,Eng Zoe Washburne,Human,38
+10,Eng Kaylee Frye,Human,60
+11,Eng Inara Serra,Human,86
+12,Eng Jayne Cobb,Human,8
+13,Eng Simon Tam,Human,34
+14,Eng River Tam,Human,56
+15,Eng Hoban Washburne,Human,82
+16,Eng Shepherd Book,Human,14
+17,Eng Rick Deckard,Human,40
+18,Eng Ellen Ripley,Human,62
+19,Eng James Holden,Human,88
+20,Eng Naomi Nagata,Human,10
+21,Eng Amos Burton,Human,36
+22,Eng Alex Kamal,Human,58
+23,Eng Chrisjen Avasarala,Human (Clone),84
+24,Eng Boba Fett,Human,13
+25,Eng Leia Solo,Human,39
+26,Eng Luke Skywalker,Human,61
+27,Eng Darth Vader,Human,87
+28,Eng Obi-Wan Kenobi,Human,9
+29,Eng Padmé Amidala,Human,35
+30,Eng Anakin Skywalker,Human,57
+31,Eng Mace Windu,Human,83
+32,Eng Ahsoka Tano,Togruta,15
+33,Eng Qui-Gon Jinn,Human,41
+34,Eng Count Dooku,Human,63
+35,Eng Emperor Palpatine,Human,89
+36,Eng Jabba the Hutt,Hutt,11
+37,Eng Lando Calrissian,Human,37
+38,Eng Wedge Antilles,Human,59
+39,Eng Chewbacca,Wookiee,85
+40,Eng Finn,Human,16
+41,Eng Poe Dameron,Human,42
+42,Eng Rose Tico,Human,64
+43,Eng BB-8,Astromech Droid,90
+44,Eng C-3PO,Protocol Droid,12
+45,Eng R2-D2,Astromech Droid,38
+46,Eng Kylo Ren,Human,60
+47,Eng Snoke,Human (Clone),86
+48,Eng Captain Phasma,Human,18
+49,Eng Grand Moff Tarkin,Human,44
+50,Eng Admiral Ackbar,Mon Calamari,66
+51,Eng Wicket W. Warrick,Human,92
+52,Eng General Hux,Human,14
+53,Eng Jyn Erso,Human,40
+54,Eng Cassian Andor,Human,62
+55,Eng Bodhi Rook,Human,88
+56,Eng K-2SO,Droid (KX-series Security Droid),17
+57,Eng Galen Erso,Human,43
+58,Eng Saw Gerrera,Human,65
+59,Eng Mon Mothma,Human,91
+60,Eng Admiral Raddus,Mon Calamari,13
+61,Eng Chirrut Îmwe,Human,39
+62,Eng Baze Malbus,Human,61
+63,Eng Orson Krennic,Human,87
+64,Eng Dengar,Trandoshan,19
+65,Eng IG-88,Droid (IG-series assassin droid),45
+66,Eng Bossk,Trandoshan ,67
+67,Eng Zuckuss,Near-Human,93
+68,Eng 4-LOM,Droid (LOM-series protocol droid),15
+69,Eng Aurra Sing,Palliduvan,41
+70,Eng Doctor Aphra,Human,63
+71,Eng Cad Bane,Duros,89
+72,Eng Zam Wesell,Human,20
+73,Eng Hondo Ohnaka,Weequay,46
+74,Eng Asajj Ventress,Dathomirian,68
+75,Eng Savage Opress,Dathomirian,94
+76,Eng Mother Talzin,Dathomirian,16
+77,Eng Pre Vizsla,Human,42
+78,Eng Bo-Katan Kryze,Human,64
+79,Eng Captain Rex,Human (Clone),90
+80,Eng Aayla Secura,Twi'lek,22
+81,Eng Kit Fisto,Nautolan,48
+82,Eng Commander Cody,Human (Clone),70
+83,Eng Admiral Yularen,Human,96
+84,Eng Captain Typho,Human,18
+85,Eng Bail Organa,Human,44
+86,Eng Captain Panaka,Human,66
+87,Eng Mas Amedda,Chagrian,92
+88,Eng Nute Gunray,Neimoidian,21
+89,Eng Wat Tambor,Skakoan,47
+90,Eng San Hill,Muun,69
+91,Eng Shmi Skywalker,Human,95
+92,Eng Owen Lars,Human,17
+93,Eng Beru Lars,Human,43
+94,Eng Cliegg Lars,Human,65
+95,Eng Watto,Toydarian,91
+96,Eng Sebulba,Dug,23
+97,Eng Jar Jar Binks,Gungan,49
+98,Eng Boss Nass,Gungan,71
+99,Eng Captain Tarpals,Gungan,97
+100,Eng Chancellor Valorum,Human,19
+101,Eng Ric Olié,Human,45
+102,Eng Quarsh Panaka,Human,67
+103,Eng Dexter Jettster,Besalisk,93
+104,Eng Lama Su,Kaminoan,24
+105,Eng Taun We,Kaminoan,50
+106,Eng Jango Fett,Human (Mandalorian),72
+107,Eng Dex’s Diner,Besalisk,98
+108,Eng Kaminoans,Kaminoan,20
+109,Eng Pablo-Jill,Vurk,46
+110,Eng Saesee Tiin,Iktotchi,68
+111,Eng Depa Billaba,Human,94
+112,Eng Shaak Ti,Togruta,26
+113,Eng Plo Koon,Kel Dor,52
+114,Eng Khaat Qiyn,Cerean,74
+115,Eng Tera Sinube,Cosian,0
+116,Eng Quinlan Vos,Kiffar,22
+117,Eng Tiplar,Togruta,48
+118,Eng Tiplee,Togruta,70
+119,Eng Luminara Unduli,Mirialan,96
+120,Eng Barriss Offee,Mirialan,25
+121,Eng Eeth Koth,Zabrak,51
+122,Eng Even Piell,Lannik,73
+123,Eng Ki-Adi-Mundi,Cerean,99
+124,Eng Oppo Rancisis,Thisspiasian,21
+125,Eng Adi Gallia,Tholothian,47
+126,Eng Yarael Poof,Quermian,69
+127,Eng Roth-Del Masona,Unknown,95
+128,Eng Agen Kolar,Zabrak,27
+129,Eng Stass Allie,Tholothian,53
+130,Eng Yaddle,Unknown,75
+131,Eng Coleman Trebor,Human,1
+132,Eng Oppo R,Droid,23
+133,Dr Han Solo,Human,49
+134,Dr Jim Kirk,Human,71
+135,Dr Hera Syndula,Twi'lek,97
+136,Dr Princess Lia Organa,Human,28
+137,Dr Caleb Doom,Human,54
+138,Dr Spock,Vulcan,76
+139,Dr Rey Skywalker,Human,2
+140,Dr Malcolm Reynolds,Human,24
+141,Dr Zoe Washburne,Human,50
+142,Dr Kaylee Frye,Human,72
+143,Dr Inara Serra,Human,98
+144,Dr Jayne Cobb,Human,30
+145,Dr Simon Tam,Human,56
+146,Dr River Tam,Human,78
+147,Dr Hoban Washburne,Human,4
+148,Dr Shepherd Book,Human,26
+149,Dr Rick Deckard,Human,52
+150,Dr Ellen Ripley,Human,74
+151,Dr James Holden,Human,0
+152,Dr Naomi Nagata,Human,29
+153,Dr Amos Burton,Human,55
+154,Dr Alex Kamal,Human,77
+155,Dr Chrisjen Avasarala,Human (Clone),3
+156,Dr Boba Fett,Human,25
+157,Dr Leia Solo,Human,51
+158,Dr Luke Skywalker,Human,73
+159,Dr Darth Vader,Human,99
+160,Dr Obi-Wan Kenobi,Human,31
+161,Dr Padmé Amidala,Human,57
+162,Dr Anakin Skywalker,Human,79
+163,Dr Mace Windu,Human,5
+164,Dr Ahsoka Tano,Togruta,27
+165,Dr Qui-Gon Jinn,Human,53
+166,Dr Count Dooku,Human,75
+167,Dr Emperor Palpatine,Human,1
+168,Dr Jabba the Hutt,Hutt,32
+169,Dr Lando Calrissian,Human,58
+170,Dr Wedge Antilles,Human,80
+171,Dr Chewbacca,Wookiee,120
+172,Dr Finn,Human,28
+173,Dr Poe Dameron,Human,54
+174,Dr Rose Tico,Human,76
+175,Dr BB-8,Astromech Droid,2
+176,Dr C-3PO,Protocol Droid,34
+177,Dr R2-D2,Astromech Droid,60
+178,Dr Kylo Ren,Human,82
+179,Dr Snoke,Human (Clone),8
+180,Dr Captain Phasma,Human,30
+181,Dr Grand Moff Tarkin,Human,56
+182,Dr Admiral Ackbar,Mon Calamari,78
+183,Dr Wicket W. Warrick,Human,4
+184,Dr General Hux,Human,33
+185,Dr Jyn Erso,Human,59
+186,Dr Cassian Andor,Human,81
+187,Dr Bodhi Rook,Human,7
+188,Dr K-2SO,Droid (KX-series Security Droid),29
+189,Dr Galen Erso,Human,55
+190,Dr Saw Gerrera,Human,77
+191,Dr Mon Mothma,Human,3
+192,Dr Admiral Raddus,Mon Calamari,35
+193,Dr Chirrut Îmwe,Human,61
+194,Dr Baze Malbus,Human,83
+195,Dr Orson Krennic,Human,9
+196,Dr Dengar,Trandoshan,31
+197,Dr IG-88,Droid (IG-series assassin droid),57
+198,Dr Bossk,Trandoshan ,79
+199,Dr Zuckuss,Near-Human,5
+200,Dr 4-LOM,Droid (LOM-series protocol droid),36
+201,Dr Aurra Sing,Palliduvan,62
+202,Dr Doctor Aphra,Human,84
+203,Dr Cad Bane,Duros,10
+204,Dr Zam Wesell,Human,32
+205,Dr Hondo Ohnaka,Weequay,58
+206,Dr Asajj Ventress,Dathomirian,80
+207,Dr Savage Opress,Dathomirian,6
+208,Dr Mother Talzin,Dathomirian,38
+209,Dr Pre Vizsla,Human,64
+210,Dr Bo-Katan Kryze,Human,86
+211,Dr Captain Rex,Human (Clone),12
+212,Dr Aayla Secura,Twi'lek,34
+213,Dr Kit Fisto,Nautolan,60
+214,Dr Commander Cody,Human (Clone),82
+215,Dr Admiral Yularen,Human,8
+216,Dr Captain Typho,Human,37
+217,Dr Bail Organa,Human,63
+218,Dr Captain Panaka,Human,85
+219,Dr Mas Amedda,Chagrian,11
+220,Dr Nute Gunray,Neimoidian,33
+221,Dr Wat Tambor,Skakoan,59
+222,Dr San Hill,Muun,81
+223,Dr Shmi Skywalker,Human,7
+224,Dr Owen Lars,Human,39
+225,Dr Beru Lars,Human,65
+226,Dr Cliegg Lars,Human,87
+227,Dr Watto,Toydarian,13
+228,Dr Sebulba,Dug,35
+229,Dr Jar Jar Binks,Gungan,61
+230,Dr Boss Nass,Gungan,83
+231,Dr Captain Tarpals,Gungan,9
+232,Dr Chancellor Valorum,Human,40
+233,Dr Ric Olié,Human,66
+234,Dr Quarsh Panaka,Human,88
+235,Dr Lama Su,Besalisk,14
+236,Dr Taun We,Kaminoan,36
+237,Dr Jango Fett,Kaminoan,62
+238,Dr Dexter Jettster,Human (Mandalorian),84
+239,Dr Dex’s Diner,Besalisk,10
+240,Dr Kaminoans,Kaminoan,42
+241,Dr Pablo-Jill,Vurk,68
+242,Dr Saesee Tiin,Iktotchi,90
+243,Dr Depa Billaba,Human,16
+244,Dr Shaak Ti,Togruta,38
+245,Dr Plo Koon,Kel Dor,64
+246,Dr Khaat Qiyn,Cerean,86
+247,Dr Tera Sinube,Cosian,12
+248,Dr Quinlan Vos,Kiffar,41
+249,Dr Tiplar,Togruta,67
+250,Dr Tiplee,Togruta,89
+251,Dr Luminara Unduli,Mirialan,15
+252,Dr Barriss Offee,Mirialan,37
+253,Dr Eeth Koth,Zabrak,63
+254,Dr Even Piell,Lannik,85
+255,Dr Ki-Adi-Mundi,Cerean,11
+256,Dr Oppo R,Thisspiasian,43
+257,Mrs. Han Solo,Human,69
+258,Mrs. Jim Kirk,Human,91
+259,Mrs. Hera Syndula,Twi'lek,17
+260,Mrs. Princess Lia Organa,Human,39
+261,Mrs. Caleb Doom,Human,65
+262,Mrs. Spock,Vulcan,87
+263,Mrs. Rey Skywalker,Human,13
+264,Mrs. Malcolm Reynolds,Human,44
+265,Mrs. Zoe Washburne,Human,70
+266,Mrs. Kaylee Frye,Human,92
+267,Mrs. Inara Serra,Human,18
+268,Mrs. Jayne Cobb,Human,40
+269,Mrs. Simon Tam,Human,66
+270,Mrs. River Tam,Human,88
+271,Mrs. Hoban Washburne,Human,14
+272,Mrs. Shepherd Book,Human,46
+273,Mrs. Rick Deckard,Human,72
+274,Mrs. Ellen Ripley,Human,94
+275,Mrs. James Holden,Human,20
+276,Mrs. Naomi Nagata,Human,42
+277,Mrs. Amos Burton,Human,68
+278,Mrs. Alex Kamal,Human,90
+279,Mrs. Chrisjen Avasarala,Human (Clone),16
+280,Mrs. Boba Fett,Human,45
+281,Mrs. Leia Solo,Human,71
+282,Mrs. Luke Skywalker,Human,93
+283,Mrs. Darth Vader,Human,19
+284,Mrs. Obi-Wan Kenobi,Human,41
+285,Mrs. Padmé Amidala,Human,67
+286,Mrs. Anakin Skywalker,Human,89
+287,Mrs. Mace Windu,Human,15
+288,Mrs. Ahsoka Tano,Togruta,47
+289,Mrs. Qui-Gon Jinn,Human,73
+290,Mrs. Count Dooku,Human,95
+291,Mrs. Emperor Palpatine,Human,21
+292,Mrs. Jabba the Hutt,Hutt,43
+293,Mrs. Lando Calrissian,Human,69
+294,Mrs. Wedge Antilles,Human,91
+295,Mrs. Chewbacca,Wookiee,143
+296,Mrs. Finn,Human,92
+297,Mrs. Poe Dameron,Human,18
+298,Mrs. Rose Tico,Human,40
+299,Mrs. BB-8,Astromech Droid,66
+300,Mrs. C-3PO,Protocol Droid,88
+301,Mrs. R2-D2,Astromech Droid,14
+302,Mrs. Kylo Ren,Human,36
+303,Mrs. Snoke,Human (Clone),62
+304,Mrs. Captain Phasma,Human,94
+305,Mrs. Grand Moff Tarkin,Human,20
+306,Mrs. Admiral Ackbar,Mon Calamari,42
+307,Mrs. Wicket W. Warrick,Human,68
+308,Mrs. General Hux,Human,90
+309,Mrs. Jyn Erso,Human,16
+310,Mrs. Cassian Andor,Human,38
+311,Mrs. Bodhi Rook,Human,64
+312,Mrs. K-2SO,Droid (KX-series Security Droid),93
+313,Mrs. Galen Erso,Human,19
+314,Mrs. Saw Gerrera,Human,41
+315,Mrs. Mon Mothma,Human,67
+316,Mrs. Admiral Raddus,Mon Calamari,89
+317,Mrs. Chirrut Îmwe,Human,15
+318,Mrs. Baze Malbus,Human,37
+319,Mrs. Orson Krennic,Human,63
+320,Mrs. Dengar,Trandoshan,95
+321,Mrs. IG-88,Droid (IG-series assassin droid),21
+322,Mrs. Bossk,Trandoshan ,43
+323,Mrs. Zuckuss,Near-Human,69
+324,Mrs. 4-LOM,Droid (LOM-series protocol droid),91
+325,Mrs. Aurra Sing,Palliduvan,17
+326,Mrs. Doctor Aphra,Human,39
+327,Mrs. Cad Bane,Duros,65
+328,Mrs. Zam Wesell,Human,96
+329,Mrs. Hondo Ohnaka,Weequay,22
+330,Mrs. Asajj Ventress,Dathomirian,44
+331,Mrs. Savage Opress,Dathomirian,70
+332,Mrs. Mother Talzin,Dathomirian,92
+333,Mrs. Pre Vizsla,Human,18
+334,Mrs. Bo-Katan Kryze,Human,40
+335,Mrs. Captain Rex,Human (Clone),66
+336,Mrs. Aayla Secura,Twi'lek,98
+337,Mrs. Kit Fisto,Nautolan,24
+338,Mrs. Commander Cody,Human (Clone),46
+339,Mrs. Admiral Yularen,Human,72
+340,Mrs. Captain Typho,Human,94
+341,Mrs. Bail Organa,Human,20
+342,Mrs. Captain Panaka,Human,42
+343,Mrs. Mas Amedda,Chagrian,68
+344,Mrs. Nute Gunray,Neimoidian,97
+345,Mrs. Wat Tambor,Skakoan,23
+346,Mrs. San Hill,Muun,45
+347,Mrs. Shmi Skywalker,Human,71
+348,Mrs. Owen Lars,Human,93
+349,Mrs. Beru Lars,Human,19
+350,Mrs. Cliegg Lars,Human,41
+351,Mrs. Watto,Toydarian,67
+352,Mrs. Sebulba,Dug,99
+353,Mrs. Jar Jar Binks,Gungan,25
+354,Mrs. Boss Nass,Gungan,47
+355,Mrs. Captain Tarpals,Gungan,73
+356,Mrs. Chancellor Valorum,Human,95
+357,Mrs. Ric Olié,Human,21
+358,Mrs. Quarsh Panaka,Human,43
+359,Mrs. Lama Su,Besalisk,69
+360,Mrs. Taun We,Kaminoan,0
+361,Mrs. Jango Fett,Kaminoan,26
+362,Mrs. Dexter Jettster,Human (Mandalorian),48
+363,Mrs. Dex’s Diner,Besalisk,74
+364,Mrs. Kaminoans,Kaminoan,96
+365,Mrs. Pablo-Jill,Vurk,22
+366,Mrs. Saesee Tiin,Iktotchi,44
+367,Mrs. Depa Billaba,Human,70
+368,Mrs. Shaak Ti,Togruta,2
+369,Mrs. Plo Koon,Kel Dor,28
+370,Mrs. Khaat Qiyn,Cerean,50
+371,Mrs. Tera Sinube,Cosian,76
+372,Mrs. Quinlan Vos,Kiffar,98
+373,Mrs. Tiplar,Togruta,24
+374,Mrs. Tiplee,Togruta,46
+375,Mrs. Luminara Unduli,Mirialan,72
+376,Mrs. Barriss Offee,Mirialan,1
+377,Mrs. Eeth Koth,Zabrak,27
+378,Mrs. Even Piell,Lannik,49
+379,Mrs. Ki-Adi-Mundi,Cerean,75
+380,Mrs. Oppo Rancisis,Thisspiasian,97
+381,Mrs. Adi Gallia,Tholothian,23
+382,Mrs. Yarael Poof,Quermian,45
+383,Mrs. Roth-Del Masona,Unknown,71
+384,Mrs. Agen Kolar,Zabrak,3
+385,Mrs. Stass Allie,Tholothian,29
+386,Mrs. Yaddle,Unknown,51
+387,Mrs. Coleman Trebor,Human,77
+388,Mrs. Oppo R,Droid,99
+389,Pro .Han Solo,Human,25
+390,Pro .Jim Kirk,Human,47
+391,Pro .Hera Syndula,Twi'lek,73
+392,Pro .Princess Lia Organa,Human,4
+393,Pro .Caleb Doom,Human,30
+394,Pro .Spock,Vulcan,52
+395,Pro .Rey Skywalker,Human,78
+396,Pro .Malcolm Reynolds,Human,0
+397,Pro .Zoe Washburne,Human,26
+398,Pro .Kaylee Frye,Human,48
+399,Pro .Inara Serra,Human,74
+400,Pro .Jayne Cobb,Human,6
+401,Pro .Simon Tam,Human,32
+402,Pro .River Tam,Human,54
+403,Pro .Hoban Washburne,Human,80
+404,Pro .Shepherd Book,Human,2
+405,Pro .Rick Deckard,Human,28
+406,Pro .Ellen Ripley,Human,50
+407,Pro .James Holden,Human,76
+408,Pro .Naomi Nagata,Human,5
+409,Pro .Amos Burton,Human,31
+410,Pro .Alex Kamal,Human,53
+411,Pro .Chrisjen Avasarala,Human (Clone),79
+412,Pro .Boba Fett,Human,1
+413,Pro .Leia Solo,Human,27
+414,Pro .Luke Skywalker,Human,49
+415,Pro .Darth Vader,Human,75
+416,Pro .Obi-Wan Kenobi,Human,7
+417,Pro .Padmé Amidala,Human,33
+418,Pro .Anakin Skywalker,Human,55
+419,Pro .Mace Windu,Human,81
+420,Pro .Ahsoka Tano,Togruta,3
+421,Pro .Qui-Gon Jinn,Human,29
+422,Pro .Count Dooku,Human,51
+423,Pro .Emperor Palpatine,Human,77
+424,Pro .Jabba the Hutt,Hutt,8
+425,Pro .Lando Calrissian,Human,34
+426,Pro .Wedge Antilles,Human,56
+427,Pro .Chewbacca,Wookiee,155
+428,Pro .Finn,Human,4
+429,Pro .Poe Dameron,Human,30
+430,Pro .Rose Tico,Human,52
+431,Pro .BB-8,Astromech Droid,78
+432,Pro .C-3PO,Protocol Droid,10
+433,Pro .R2-D2,Astromech Droid,36
+434,Pro .Kylo Ren,Human,58
+435,Pro .Snoke,Human (Clone),84
+436,Pro .Captain Phasma,Human,6
+437,Pro .Grand Moff Tarkin,Human,32
+438,Pro .Admiral Ackbar,Mon Calamari,54
+439,Pro .Wicket W. Warrick,Human,80
+440,Pro .General Hux,Human,9
+441,Pro .Jyn Erso,Human,35
+442,Pro .Cassian Andor,Human,57
+443,Pro .Bodhi Rook,Human,83
+444,Pro .K-2SO,Droid (KX-series Security Droid),5
+445,Pro .Galen Erso,Human,31
+446,Pro .Saw Gerrera,Human,53
+447,Pro .Mon Mothma,Human,79
+448,Pro .Admiral Raddus,Mon Calamari,11
+449,Pro .Chirrut Îmwe,Human,37
+450,Pro .Baze Malbus,Human,59
+451,Pro .Orson Krennic,Human,85
+452,Pro .Dengar,Trandoshan,7
+453,Pro .IG-88,Droid (IG-series assassin droid),33
+454,Pro .Bossk,Trandoshan ,55
+455,Pro .Zuckuss,Near-Human,81
+456,Pro .4-LOM,Droid (LOM-series protocol droid),12
+457,Pro .Aurra Sing,Palliduvan,38
+458,Pro .Doctor Aphra,Human,60
+459,Pro .Cad Bane,Duros,86
+460,Pro .Zam Wesell,Human,8
+461,Pro .Hondo Ohnaka,Weequay,34
+462,Pro .Asajj Ventress,Dathomirian,56
+463,Pro .Savage Opress,Dathomirian,82
+464,Pro .Mother Talzin,Dathomirian,14
+465,Pro .Pre Vizsla,Human,40
+466,Pro .Bo-Katan Kryze,Human,62
+467,Pro .Captain Rex,Human (Clone),88
+468,Pro .Aayla Secura,Twi'lek,10
+469,Pro .Kit Fisto,Nautolan,36
+470,Pro .Plo Koon,Human (Clone),58
+471,Pro .Shaak Ti,Human,84
+472,Pro .Ki-Adi-Mundi,Human,13
+473,Pro .Commander Cody,Human,39
+474,Pro .Admiral Yularen,Human,61
+475,Pro .Captain Typho,Chagrian,87
+476,Pro .Bail Organa,Neimoidian,9
+477,Pro .Captain Panaka,Skakoan,35
+478,Pro .Mas Amedda,Muun,57
+479,Pro .Nute Gunray,Human,83
+480,Pro .Wat Tambor,Human,15
+481,Pro .San Hill,Human,41
+482,Pro .Shmi Skywalker,Human,63
+483,Pro .Owen Lars,Toydarian,89
+484,Pro .Beru Lars,Dug,11
+485,Pro .Cliegg Lars,Gungan,37
+486,Pro .Watto,Gungan,59
+487,Pro .Sebulba,Gungan,85
+488,Pro .Jar Jar Binks,Human,16
+489,Pro .Boss Nass,Human,42
+490,Pro .Captain Tarpals,Human,64
+491,Pro .Chancellor Valorum,Besalisk,90
+492,Pro .Ric Olié,Kaminoan,12
+493,Pro .Quarsh Panaka,Kaminoan,38
+494,Pro .Lama Su,Human (Mandalorian),60
+495,Pro .Taun We,Besalisk,86
+496,Pro .Jango Fett,Kaminoan,18
+497,Pro .Dexter Jettster,Vurk,44
+498,Pro .Dex’s Diner,Iktotchi,66
+499,Pro .Kaminoans,Human,92
+500,Pro .Pablo-Jill,Togruta,14
+501,Pro .Yarael Poof,Kel Dor,40
+502,Pro .Roth-Del Masona,Cerean,62
+503,Pro .Agen Kolar,Cosian,88
+504,Pro .Stass Allie,Kiffar,17
+505,Pro .Yaddle,Togruta,43
+506,Pro .Coleman Trebor,Togruta,65
+507,Pro .Oppo Rancisis,Mirialan,91
+508,Pro .Adi Gallia,Mirialan,13
+509,Pro .Eeth Koth,Zabrak,39
+510,Pro .Saesee Tiin,Lannik,61
+511,Pro .Even Piell,Cerean,87
+512,Pro .Depa Billaba,Thisspiasian,19
+513,Pro .Khaat Qiyn,Human,45
+514,Pro .Tera Sinube,Human,67
+515,Pro .Quinlan Vos,Twi'lek,93
+516,Pro .Tiplar,Human,15
+517,Pro .Tiplee,Human,41
+518,Pro .Luminara Unduli,Vulcan,63
+519,Pro .Barriss Offee,Human,89
+520,Pro .Oppo R,Human,20
+521,Han Solo,Human,46
+522,Jim Kirk,Human,68
+523,Hera Syndula,Human,94
+524,Princess Lia Organa,Human,16
+525,Caleb Doom,Human,42
+526,Spock,Human,64
+527,Rey Skywalker,Human,90
+528,Malcolm Reynolds,Human,22
+529,Zoe Washburne,Human,48
+530,Kaylee Frye,Human,70
+531,Inara Serra,Human,96
+532,Jayne Cobb,Human,18
+533,Simon Tam,Human,44
+534,River Tam,Human,66
+535,Hoban Washburne,Human (Clone),92
+536,Shepherd Book,Human,21
+537,Rick Deckard,Human,47
+538,Ellen Ripley,Human,69
+539,James Holden,Human,95
+540,Naomi Nagata,Human,17
+541,Amos Burton,Human,43
+542,Alex Kamal,Human,65
+543,Chrisjen Avasarala,Human,91
+544,Boba Fett,Togruta,23
+545,Jango Fett,Human,49
+546,Leia Solo,Human,71
+547,Luke Skywalker,Human,97
+548,Darth Vader,Hutt,19
+549,Obi-Wan Kenobi,Human,45
+550,Padmé Amidala,Human,67
+551,Anakin Skywalker,Wookiee,93
+552,Mace Windu,Human,24
+553,Ahsoka Tano,Human,50
+554,Qui-Gon Jinn,Human,72
+555,Count Dooku,Astromech Droid,98
+556,Emperor Palpatine,Protocol Droid,20
+557,Jabba the Hutt,Astromech Droid,46
+558,Lando Calrissian,Human,68
+559,Wedge Antilles,Human (Clone),94
+560,Chewbacca,Human,165
+561,Finn,Human,52
+562,Poe Dameron,Mon Calamari,74
+563,Rose Tico,Human,0
+564,BB-8,Human,22
+565,C-3PO,Human,48
+566,R2-D2,Human,70
+567,Kylo Ren,Human,96
+568,Snoke,Droid (KX-series Security Droid),25
+569,Captain Phasma,Human,51
+570,Grand Moff Tarkin,Human,73
+571,Admiral Ackbar,Human,99
+572,Wicket W. Warrick,Mon Calamari,21
+573,General Hux,Human,47
+574,Jyn Erso,Human,69
+575,Cassian Andor,Human,95
+576,Bodhi Rook,Trandoshan,27
+577,K-2SO,Droid (IG-series assassin droid),53
+578,Galen Erso,Trandoshan ,75
+579,Saw Gerrera,Near-Human,1
+580,Mon Mothma,Droid (LOM-series protocol droid),23
+581,Admiral Raddus,Palliduvan,49
+582,Chirrut Îmwe,Human,71
+583,Baze Malbus,Duros,97
+584,Orson Krennic,Human,28
+585,Dengar,Weequay,54
+586,IG-88,Dathomirian,76
+587,Bossk,Dathomirian,2
+588,Zuckuss,Dathomirian,24
+589,4-LOM,Human,50
+590,Aurra Sing,Human,72
+591,Doctor Aphra,Human (Clone),98
+592,Cad Bane,Twi'lek,30
+593,Zam Wesell,Nautolan,56
+594,Hondo Ohnaka,Human (Clone),78
+595,Asajj Ventress,Human,4
+596,Savage Opress,Human,26
+597,Mother Talzin,Human,52
+598,Pre Vizsla,Human,74
+599,Bo-Katan Kryze,Chagrian,0
+600,Captain Rex,Neimoidian,29
+601,Aayla Secura,Skakoan,55
+602,Kit Fisto,Muun,77
+603,Plo Koon,Human,3
+604,Shaak Ti,Human,25
+605,Ki-Adi-Mundi,Human,51
+606,Commander Cody,Human,73
+607,Admiral Yularen,Toydarian,99
+608,Captain Typho,Dug,31
+609,Bail Organa,Gungan,57
+610,Captain Panaka,Gungan,79
+611,Mas Amedda,Gungan,5
+612,Nute Gunray,Human,27
+613,Wat Tambor,Human,53
+614,San Hill,Human,75
+615,Shmi Skywalker,Besalisk,1
+616,Owen Lars,Kaminoan,32
+617,Mrs .Oppo Rancisis,Kaminoan,82
+618,Mrs .Adi Gallia,Human (Mandalorian),8
+619,Mrs .Yarael Poof,Besalisk,37
+620,Mrs .Roth-Del Masona,Kaminoan,63
+621,Mrs .Agen Kolar,Vurk,85
+622,Mrs .Stass Allie,Iktotchi,11
+623,Mrs .Yaddle,Human,33
+624,Mrs .Coleman Trebor,Togruta,59
+625,Stive Han Solo,Kel Dor,81
+626,Stive Jim Kirk,Cerean,7
+627,Stive Hera Syndula,Cosian,39
+628,Stive Princess Lia Organa,Kiffar,65
+629,Stive Caleb Doom,Togruta,87
+630,Stive Spock,Togruta,13
+631,Stive Rey Skywalker,Mirialan,35
+632,Stive Malcolm Reynolds,Mirialan,61
+633,Stive Zoe Washburne,Zabrak,83
+634,Stive Kaylee Frye,Lannik,9
+635,Stive Inara Serra,Cerean,36
+636,Stive Jayne Cobb,Thisspiasian,28
+637,Stive Simon Tam,Tholothian,84
+638,Stive River Tam,Quermian,76
+639,Stive Hoban Washburne,Unknown,32
+640,Stive Shepherd Book,Zabrak,12
+641,Stive Rick Deckard,Tholothian,80
+642,Stive Ellen Ripley,Unknown,60
+643,Stive James Holden,Human,38
+644,Stive Naomi Nagata,Droid,30
+645,Stive Amos Burton,Human,86
+646,Stive Alex Kamal,Human,78
+647,Stive Chrisjen Avasarala,Twi'lek,34
+648,Stive Boba Fett,Human,14
+649,Stive Leia Solo,Human,82
+650,Stive Luke Skywalker,Vulcan,62
+651,Stive Darth Vader,Human,37
+652,Stive Obi-Wan Kenobi,Human,29
+653,Stive Padmé Amidala,Human,85
+654,Stive Anakin Skywalker,Human,77
+655,Stive Mace Windu,Human,33
+656,Stive Ahsoka Tano,Human,13
+657,Stive Qui-Gon Jinn,Human,81
+658,Pro .Jango Fett,Human,61
+659,Stive Emperor Palpatine,Human,39
+660,Stive Jabba the Hutt,Human,31
+661,Stive Lando Calrissian,Human,87
+662,Stive Wedge Antilles,Human,79
+663,Stive Chewbacca,Human,177
+664,Stive Finn,Human,15
+665,Stive Poe Dameron,Human,83
+666,Stive Rose Tico,Human,63
+667,Stive BB-8,Human (Clone),40
+668,Stive C-3PO,Human,32
+669,Stive R2-D2,Human,88
+670,Stive Kylo Ren,Human,80
+671,Stive Snoke,Human,36
+672,Stive Captain Phasma,Human,16
+673,Stive Grand Moff Tarkin,Human,84
+674,Stive Admiral Ackbar,Human,64
+675,Stive Wicket W. Warrick,Human,42
+676,Stive General Hux,Togruta,34
+677,Stive Jyn Erso,Human,90
+678,Stive Cassian Andor,Human,82
+679,Stive Bodhi Rook,Human,38
+680,Stive K-2SO,Hutt,18
+681,Stive Galen Erso,Human,86
+682,Stive Saw Gerrera,Human,66
+683,Stive Mon Mothma,Wookiee,41
+684,Stive Admiral Raddus,Human,33
+685,Stive Chirrut Îmwe,Human,89
+686,Stive Baze Malbus,Human,81
+687,Stive Orson Krennic,Astromech Droid,37
+688,Stive Dengar,Protocol Droid,17
+689,Stive IG-88,Astromech Droid,85
+690,Stive Bossk,Human,65
+691,Stive Zuckuss,Human (Clone),43
+692,Stive 4-LOM,Human,35
+693,Stive Aurra Sing,Human,91
+694,Stive Doctor Aphra,Mon Calamari,83
+695,Stive Cad Bane,Human,39
+696,Stive Zam Wesell,Human,19
+697,Stive Hondo Ohnaka,Human,87
+698,Stive Asajj Ventress,Human,67
+699,Stive Savage Opress,Human,44
+700,Stive Mother Talzin,Droid (KX-series Security Droid),36
+701,Stive Pre Vizsla,Human,92
+702,Stive Bo-Katan Kryze,Human,84
+703,Stive Captain Rex,Human,40
+704,Stive Aayla Secura,Mon Calamari,20
+705,Stive Kit Fisto,Human,88
+706,Stive Commander Cody,Human,68
+707,Stive Admiral Yularen,Human,46
+708,Stive Captain Typho,Trandoshan,38
+709,Stive Bail Organa,Droid (IG-series assassin droid),94
+710,Stive Captain Panaka,Trandoshan ,86
+711,Stive Mas Amedda,Near-Human,42
+712,Stive Nute Gunray,Droid (LOM-series protocol droid),22
+713,Stive Wat Tambor,Palliduvan,90
+714,Stive San Hill,Human,70
+715,Stive Shmi Skywalker,Duros,45
+716,Stive Owen Lars,Human,37
+717,Stive Beru Lars,Weequay,93
+718,Stive Cliegg Lars,Dathomirian,85
+719,Stive Watto,Dathomirian,41
+720,Stive Sebulba,Dathomirian,21
+721,Stive Jar Jar Binks,Human,89
+722,Stive Boss Nass,Human,69
+723,Stive Captain Tarpals,Human (Clone),47
+724,Stive Chancellor Valorum,Twi'lek,39
+725,Stive Ric Olié,Nautolan,95
+726,Stive Quarsh Panaka,Human (Clone),87
+727,Stive Dexter Jettster,Human,43
+728,Stive Lama Su,Human,23
+729,Stive Taun We,Human,91
+730,Stive Jango Fett,Human,71
+731,Stive Dex’s Diner,Chagrian,48
+732,Stive Kaminoans,Neimoidian,40
+733,Stive Pablo-Jill,Skakoan,96
+734,Stive Saesee Tiin,Muun,88
+735,Stive Depa Billaba,Human,44
+736,Stive Shaak Ti,Human,24
+737,Stive Plo Koon,Human,92
+738,Stive Khaat Qiyn,Human,72
+739,Stive Tera Sinube,Toydarian,50
+740,Pro .Dexter Jettster,Dug,42
+741,Stive Tiplar,Gungan,98
+742,Stive Tiplee,Gungan,90
+743,Stive Luminara Unduli,Gungan,46
+744,Stive Barriss Offee,Human,26
+745,Stive Eeth Koth,Human,94
+746,Stive Even Piell,Human,74
+747,Pro .Pablo-Jill,Besalisk,49
+748,Pro .Yarael Poof,Kaminoan,41
+749,Pro .Roth-Del Masona,Kaminoan,97
+750,Pro .Agen Kolar,Human (Mandalorian),89
+751,Pro .Stass Allie,Besalisk,45
+752,Stive Agen Kolar,Kaminoan,25
+753,Stive Stass Allie,Vurk,93
+754,Stive Yaddle,Iktotchi,73
+755,Stive Coleman Trebor,Human,51
+756,Stive Oppo R,Togruta,43
+757,Laly Han Solo,Kel Dor,99
+758,Laly Jim Kirk,Cerean,91
+759,Laly Hera Syndula,Cosian,47
+760,Laly Princess Lia Organa,Kiffar,27
+761,Pro .Caleb Doom,Togruta,95
+762,Laly Spock,Togruta,75
+763,Laly Rey Skywalker,Mirialan,52
+764,Laly Malcolm Reynolds,Mirialan,44
+765,Pro .Zoe Washburne,Zabrak,0
+766,Pro .Kaylee Frye,Lannik,92
+767,Laly Inara Serra,Cerean,48
+768,Pro .Jayne Cobb,Thisspiasian,28
+769,Pro .Simon Tam,Human,96
+770,Laly River Tam,Human,76
+771,Laly Hoban Washburne,Twi'lek,54
+772,Laly Shepherd Book,Human,46
+773,Laly Rick Deckard,Human,2
+774,Laly Ellen Ripley,Vulcan,94
+775,Laly James Holden,Human,50
+776,Laly Naomi Nagata,Human,30
+777,Pro .Amos Burton,Human,98
+778,Pro .Alex Kamal,Human,78
+779,Pro .Chrisjen Avasarala,Human,53
+780,Pro .Boba Fett,Human,45
+781,Pro .Leia Solo,Human,1
+782,Pro .Luke Skywalker,Human,93
+783,Pro .Darth Vader,Human,49
+784,Pro .Obi-Wan Kenobi,Human,29
+785,Pro .Padmé Amidala,Human,97
+786,Pro .Anakin Skywalker,Human,77
+787,Pro .Mace Windu,Human,55
+788,Pro .Ahsoka Tano,Human,47
+789,Pro .Qui-Gon Jinn,Human,3
+790,Pro .Count Dooku,Human,95
+791,Pro .Emperor Palpatine,Human (Clone),51
+792,Pro .Jabba the Hutt,Human,31
+793,Pro .Lando Calrissian,Human,99
+794,Pro .Wedge Antilles,Human,79
+795,Pro .Chewbacca,Human,188
+796,Pro .Finn,Human,48
+797,Pro .Poe Dameron,Human,4
+798,Pro .Rose Tico,Human,96
+799,Pro .BB-8,Human,52
+800,Pro .C-3PO,Togruta,32
+801,Pro .R2-D2,Human,0
+802,Pro .Kylo Ren,Human,80
+803,Pro .Snoke,Human,58
+804,Pro .Captain Phasma,Hutt,50
+805,Pro .Grand Moff Tarkin,Human,6
+806,Pro .Admiral Ackbar,Human,98
+807,Pro .Wicket W. Warrick,Wookiee,54
+808,Pro .General Hux,Human,34
+809,Pro .Jyn Erso,Human,2
+810,Pro .Cassian Andor,Human,82
+811,Pro .Bodhi Rook,Astromech Droid,57
+812,Pro .K-2SO,Protocol Droid,49
+813,Pro .Galen Erso,Astromech Droid,5
+814,Pro .Saw Gerrera,Human,97
+815,Pro .Mon Mothma,Human (Clone),53
+816,Pro .Admiral Raddus,Human,33
+817,Pro .Chirrut Îmwe,Human,1
+818,Pro .Baze Malbus,Mon Calamari,81
+819,Pro .Orson Krennic,Human,59
+820,Pro .Dengar,Human,51
+821,Pro .IG-88,Human,7
+822,Pro .Bossk,Human,99
+823,Pro .Zuckuss,Human,55
+824,Pro .4-LOM,Droid (KX-series Security Droid),35
+825,Pro .Aurra Sing,Human,3
+826,Pro .Doctor Aphra,Human,83
+827,Pro .Cad Bane,Human,60
+828,Pro .Zam Wesell,Mon Calamari,52
+829,Pro .Hondo Ohnaka,Human,8
+830,Pro .Asajj Ventress,Human,0
+831,Pro .Savage Opress,Human,56
+832,Pro .Mother Talzin,Trandoshan,36
+833,Pro .Pre Vizsla,Droid (IG-series assassin droid),4
+834,Pro .Bo-Katan Kryze,Trandoshan ,84
+835,Pro .Captain Rex,Near-Human,62
+836,Pro .Aayla Secura,Droid (LOM-series protocol droid),54
+837,Pro .Kit Fisto,Palliduvan,10
+838,Pro .Commander Cody,Human,2
+839,Pro .Admiral Yularen,Duros,58
+840,Pro .Captain Typho,Human,38
+841,Pro .Bail Organa,Weequay,6
+842,Pro .Captain Panaka,Dathomirian,86
+843,Pro .Mas Amedda,Dathomirian,61
+844,Pro .Nute Gunray,Dathomirian,53
+845,Pro .Wat Tambor,Human,9
+846,Pro .San Hill,Human,1
+847,Pro .Shmi Skywalker,Human (Clone),57
+848,Pro .Owen Lars,Twi'lek,37
+849,Pro .Beru Lars,Nautolan,5
+850,Pro .Cliegg Lars,Human (Clone),85
+851,Pro .Watto,Human,63
+852,Pro .Sebulba,Human,55
+853,Pro .Jar Jar Binks,Human,11
+854,Pro .Boss Nass,Human,3
+855,Pro .Captain Tarpals,Chagrian,59
+856,Pro .Chancellor Valorum,Neimoidian,39
+857,Pro .Ric Olié,Skakoan,7
+858,Pro .Quarsh Panaka,Muun,87
+859,Laly Dexter Jettster,Human,64
+860,Laly Lama Su,Human,56
+861,Laly Taun We,Human,12
+862,Laly Jango Fett,Human,4
+863,Laly Dex’s Diner,Toydarian,60
+864,Laly Kaminoans,Dug,40
+865,Laly Pablo-Jill,Gungan,8
+866,Laly Saesee Tiin,Gungan,88
+867,Laly Depa Billaba,Gungan,66
+868,Laly Shaak Ti,Human,58
+869,Laly Plo Koon,Human,14
+870,Laly Khaat Qiyn,Human,6
+871,Laly Tera Sinube,Besalisk,62
+872,Laly Quinlan Vos,Kaminoan,42
+873,Laly Tiplar,Kaminoan,10
+874,Laly Tiplee,Human (Mandalorian),90
+875,Laly Luminara Unduli,Besalisk,65
+876,Laly Barriss Offee,Kaminoan,57
+877,Laly Eeth Koth,Vurk,13
+878,Laly Even Piell,Iktotchi,5
+879,Laly Ki-Adi-Mundi,Human,61
+880,Laly Oppo Rancisis,Togruta,41
+881,Laly Adi Gallia,Kel Dor,9
+882,Laly Yarael Poof,Cerean,89
+883,Laly Roth-Del Masona,Cosian,67
+884,Laly Agen Kolar,Kiffar,59
+885,Laly Stass Allie,Togruta,15
+886,Laly Yaddle,Togruta,7
+887,Laly Coleman Trebor,Mirialan,63
+888,Laly Oppo R,Mirialan,43
+889,Sir Han Solo,Zabrak,11
+890,Sir Jim Kirk,Lannik,91
+891,Sir Hera Syndula,Cerean,68
+892,Sir Princess Lia Organa,Thisspiasian,60
+893,Sir Caleb Doom,Tholothian,16
+894,Sir Spock,Quermian,8
+895,Sir Rey Skywalker,Unknown,64
+896,Sir Malcolm Reynolds,Zabrak,44
+897,Sir Zoe Washburne,Tholothian,12
+898,Sir Kaylee Frye,Unknown,92
+899,Sir Inara Serra,Human,70
+900,Sir Jayne Cobb,Droid,62
+901,Sir Simon Tam,Human,18
+902,Sir River Tam,Human,10
+903,Sir Hoban Washburne,Twi'lek,66
+904,Sir Shepherd Book,Human,46
+905,Sir Rick Deckard,Human,14
+906,Sir Ellen Ripley,Vulcan,94
+907,Sir James Holden,Human,69
+908,Sir Naomi Nagata,Human,61
+909,Sir Amos Burton,Human,17
+910,Sir Alex Kamal,Human,9
+911,Sir Chrisjen Avasarala,Human,65
+912,Sir Boba Fett,Human,45
+913,Sir Leia Solo,Human,13
+914,Sir Luke Skywalker,Human,93
+915,Sir Darth Vader,Human,71
+916,Sir Obi-Wan Kenobi,Human,63
+917,Sir Padmé Amidala,Human,19
+918,Sir Anakin Skywalker,Human,11
+919,Sir Mace Windu,Human,67
+920,Sir Ahsoka Tano,Human,47
+921,Sir Qui-Gon Jinn,Human,15
+922,Sir Count Dooku,Human,95
+923,Sir Emperor Palpatine,Human (Clone),72
+924,Sir Jabba the Hutt,Human,64
+925,Sir Lando Calrissian,Human,20
+926,Sir Wedge Antilles,Human,0
+927,Sir Chewbacca,Human,251
+928,Sir Finn,Human,48
+929,Sir Poe Dameron,Human,16
+930,Sir Rose Tico,Human,96
+931,Sir BB-8,Human,74
+932,Sir C-3PO,Togruta,66
+933,Sir R2-D2,Human,22
+934,Sir Kylo Ren,Human,2
+935,Sir Snoke,Human,70
+936,Sir Captain Phasma,Hutt,50
+937,Sir Grand Moff Tarkin,Human,18
+938,Sir Admiral Ackbar,Human,98
+939,Sir Wicket W. Warrick,Wookiee,73
+940,Sir General Hux,Human,65
+941,Sir Jyn Erso,Human,21
+942,Sir Cassian Andor,Human,1
+943,Sir Bodhi Rook,Astromech Droid,69
+944,Sir K-2SO,Protocol Droid,49
+945,Sir Galen Erso,Astromech Droid,17
+946,Sir Saw Gerrera,Human,97
+947,Sir Mon Mothma,Human (Clone),75
+948,Sir Admiral Raddus,Human,67
+949,Sir Chirrut Îmwe,Human,23
+950,Sir Baze Malbus,Mon Calamari,3
+951,Sir Orson Krennic,Human,71
+952,Sir Dengar,Human,51
+953,Sir IG-88,Human,19
+954,Sir Bossk,Human,23
+955,Sir Zuckuss,Human,42
+956,Mr. Han Solo,Droid (KX-series Security Droid),51
+957,Mr. Jim Kirk,Human,62
+958,Mr. Hera Syndula,Human,22
+959,Mr. Princess Lia Organa,Human,13
+960,Mr. Caleb Doom,Mon Calamari,17
+961,Mr. Spock,Human,18
+962,Mr. Rey Skywalker,Human,19
+963,Mr. Malcolm Reynolds,Human,20
+964,Mr. Zoe Washburne,Trandoshan,21
+965,Mr. Kaylee Frye,Droid (IG-series assassin droid),22
+966,Mr. Inara Serra,Trandoshan ,23
+967,Mr. Jayne Cobb,Near-Human,24
+968,Mr. Simon Tam,Droid (LOM-series protocol droid),25
+969,Mr. River Tam,Palliduvan,26
+970,Mr. Hoban Washburne,Human,27
+971,Mr. Shepherd Book,Duros,28
+972,Mr. Rick Deckard,Human,29
+973,Mr. Ellen Ripley,Weequay,30
+974,Mr. James Holden,Dathomirian,31
+975,Mr. Naomi Nagata,Dathomirian,32
+976,Mr. Amos Burton,Dathomirian,33
+977,Mr. Alex Kamal,Human,34
+978,Mr. Chrisjen Avasarala,Human,35
+979,Mr. Boba Fett,Human (Clone),36
+980,Mr. Leia Solo,Human,37
+981,Mr. Luke Skywalker,Human,38
+982,Mr. Darth Vader,Human (Clone),39
+983,Mr. Obi-Wan Kenobi,Human,40
+984,Mr. Padmé Amidala,Human,41
+985,Mr. Anakin Skywalker,Human,42
+986,Mr. Mace Windu,Human,43
+987,Mr. Ahsoka Tano,Tulgara,44
+988,Mr. Qui-Gon Jinn,Human,45
+989,Mr. Count Dooku,Human,46
+990,Mr. Emperor Palpatine,Human,47
+991,Mr. Jabba the Hutt,Human,102
+992,Mr. Lando Calrissian,Human,48
+993,Mr. Wedge Antilles,Human,49
+994,Mr. Chewbacca,Wookiee,192
+995,Mr. Finn,Human (Clone),31
+996,Mr. Poe Dameron,Human,32
+997,Mr. Rose Tico,Gungan,33
+998,Mr. BB-8,Droid (Astro-mech),6
+999,Mr. C-3PO,Droid (Protocol),12
+1000,Mr. Chopper,Droid (Astro-mech),36

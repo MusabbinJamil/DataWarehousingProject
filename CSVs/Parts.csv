@@ -1,0 +1,1200 @@
+1,Ion-Engine-RPN1 (R),352,14,7
+2,Booster Engines-RPN2 (R),687,75,22
+3,FTL Engines-RPN3 (R),1040,94,38
+4,Thrusters-RPN4 (R),1388,24,26
+5,Hyper Drive-RPN5 (R),370,77,18
+6,Warp Drive-RPN6 (R),695,49,27
+7,Flux Capacitor-RPN7 (R),1040,62,11
+8,Kyber Capacitor (Black Market)-RPN8 (R),1406,68,31
+9,Nav Computer-RPN9 (R),578,3,41
+10,Landing Gear-RPN10 (R),1134,60,3
+11,Artificial Gravity Generators-RPN11 (R),1690,88,44
+12,Cloaking Device (Black Market)-RPN12 (R),2244,19,22
+13,Shield Generators-RPN13 (R),578,26,33
+14,Field Generators-RPN14 (R),1157,70,30
+15,WaveFront Generators-RPN15 (R),1712,83,45
+16,Deflector Screens-RPN16 (R),2291,78,36
+17,Backup Power Generators-RPN17 (R),1157,98,19
+18,Ion Blasters-RPN18 (R),2268,78,1
+19,Propulsion Blasters-RPN19 (R),3401,38,11
+20,Heat Blasters-RPN20 (R),4558,22,42
+21,Radiation Guns-RPN21 (R),1179,9,32
+22,Fuel Cells-RPN22 (R),2152,46,37
+23,Tanks-RPN23 (R),3239,60,15
+24,Escape Pods-RPN24 (R),4351,31,7
+25,Life Support Systems-RPN25 (R),601,89,26
+26,Medical Utilities for Humans-RPN26 (R),609,24,3
+27,Medical utilities for non-Humans-RPN27 (R),615,77,19
+28,Ion-Engine-RPN28 (R),622,85,46
+29,Booster Engines-RPN29 (R),875,93,6
+30,FTL Engines-RPN30 (R),892,88,34
+31,Thrusters-RPN31 (R),909,19,43
+32,Hyper Drive-RPN32 (R),958,87,19
+33,Warp Drive-RPN33 (R),1422,50,32
+34,Flux Capacitor-RPN34 (R),1438,53,11
+35,Kyber Capacitor (Black Market)-RPN35 (R),1455,67,8
+36,Nav Computer-RPN36 (R),1470,68,6
+37,Landing Gear-RPN37 (R),1719,6,48
+38,Artificial Gravity Generators-RPN38 (R),1735,79,30
+39,Cloaking Device (Black Market)-RPN39 (R),1752,29,10
+40,Shield Generators-RPN40 (R),1769,76,27
+41,Field Generators-RPN41 (R),1140,66,16
+42,WaveFront Generators-RPN42 (R),1157,67,33
+43,Deflector Screens-RPN43 (R),1173,51,11
+44,Backup Power Generators-RPN44 (R),1191,17,46
+45,Ion Blasters-RPN45 (R),1703,30,38
+46,Propulsion Blasters-RPN46 (R),1735,26,17
+47,Heat Blasters-RPN47 (R),1786,85,38
+48,Radiation Guns-RPN48 (R),1852,37,33
+49,Fuel Cells-RPN49 (R),1719,75,35
+50,Tanks-RPN50 (R),1735,2,26
+51,Escape Pods-RPN51 (R),1752,73,14
+52,Life Support Systems-RPN52 (R),1769,82,9
+53,Medical Utilities for Humans-RPN53 (R),2512,3,2
+54,Medical utilities for non-Humans-RPN54 (R),2578,31,17
+55,Ion-Engine-RPN55 (R),2644,39,14
+56,Booster Engines-RPN56 (R),2777,94,18
+57,FTL Engines-RPN57 (R),2544,16,43
+58,Thrusters-RPN58 (R),2562,15,19
+59,Hyper Drive-RPN59 (R),2578,70,19
+60,Warp Drive-RPN60 (R),2595,28,30
+61,Flux Capacitor-RPN61 (R),3356,30,18
+62,Kyber Capacitor (Black Market)-RPN62 (R),3422,16,23
+63,Nav Computer-RPN63 (R),3487,96,25
+64,Landing Gear-RPN64 (R),3620,25,16
+65,Artificial Gravity Generators-RPN65 (R),2265,47,18
+66,Cloaking Device (Black Market)-RPN66 (R),2281,27,45
+67,Shield Generators-RPN67 (R),2297,31,35
+68,Field Generators-RPN68 (R),2313,74,49
+69,WaveFront Generators-RPN69 (R),3339,72,37
+70,Deflector Screens-RPN70 (R),3404,28,45
+71,Backup Power Generators-RPN71 (R),3537,93,26
+72,Ion Blasters-RPN72 (R),3703,43,35
+73,Propulsion Blasters-RPN73 (R),542,39,31
+74,Heat Blasters-RPN74 (R),549,25,21
+75,Radiation Guns-RPN75 (R),556,76,30
+76,Fuel Cells-RPN76 (R),562,97,11
+77,Tanks-RPN77 (R),809,4,12
+78,Escape Pods-RPN78 (R),826,65,1
+79,Life Support Systems-RPN79 (R),843,68,38
+80,Medical Utilities for Humans-RPN80 (R),909,94,19
+81,Medical utilities for non-Humans-RPN81 (R),1339,73,27
+82,Ion-Engine-RPN82 (R),1356,46,16
+83,Booster Engines-RPN83 (R),1372,18,18
+84,FTL Engines-RPN84 (R),1388,20,5
+85,Thrusters-RPN85 (R),1636,46,1
+86,Hyper Drive-RPN86 (R),1653,6,11
+87,Warp Drive-RPN87 (R),1669,76,40
+88,Flux Capacitor-RPN88 (R),1687,73,22
+89,Kyber Capacitor (Black Market)-RPN89 (R),1074,22,15
+90,Nav Computer-RPN90 (R),1091,41,21
+91,Landing Gear-RPN91 (R),1107,27,4
+92,Artificial Gravity Generators-RPN92 (R),1125,96,11
+93,Cloaking Device (Black Market)-RPN93 (R),1603,68,44
+94,Shield Generators-RPN94 (R),1636,33,13
+95,Field Generators-RPN95 (R),1687,42,18
+96,WaveFront Generators-RPN96 (R),1752,98,42
+97,Deflector Screens-RPN97 (R),1603,54,27
+98,Backup Power Generators-RPN98 (R),1621,32,30
+99,Ion Blasters-RPN99 (R),1636,38,3
+100,Propulsion Blasters-RPN100 (R),1653,90,35
+101,Heat Blasters-RPN101 (R),2396,95,21
+102,Radiation Guns-RPN102 (R),2462,74,30
+103,Fuel Cells-RPN103 (R),2529,53,19
+104,Tanks-RPN104 (R),2661,57,10
+105,Escape Pods-RPN105 (R),2413,69,39
+106,Life Support Systems-RPN106 (R),2430,27,24
+107,Medical Utilities for Humans-RPN107 (R),2446,78,30
+108,Medical utilities for non-Humans-RPN108 (R),2462,19,48
+109,Ion-Engine-RPN109 (R),3239,84,14
+110,Booster Engines-RPN110 (R),3305,6,27
+111,FTL Engines-RPN111 (R),3372,85,43
+112,Thrusters-RPN112 (R),3504,34,29
+113,Hyper Drive-RPN113 (R),2148,25,17
+114,Warp Drive-RPN114 (R),2165,58,18
+115,Flux Capacitor-RPN115 (R),2181,24,5
+116,Kyber Capacitor (Black Market)-RPN116 (R),2199,8,15
+117,Nav Computer-RPN117 (R),3207,95,47
+118,Landing Gear-RPN118 (R),3273,18,38
+119,Artificial Gravity Generators-RPN119 (R),3404,41,5
+120,Cloaking Device (Black Market)-RPN120 (R),3570,42,24
+121,Shield Generators-RPN121 (R),202,81,11
+122,Field Generators-RPN122 (R),202,30,47
+123,WaveFront Generators-RPN123 (R),202,64,17
+124,Deflector Screens-RPN124 (R),238,19,36
+125,Backup Power Generators-RPN125 (R),392,46,7
+126,Ion Blasters-RPN126 (R),392,6,37
+127,Propulsion Blasters-RPN127 (R),392,98,9
+128,Heat Blasters-RPN128 (R),462,64,17
+129,Radiation Guns-RPN129 (R),580,40,28
+130,Fuel Cells-RPN130 (R),580,62,7
+131,Tanks-RPN131 (R),580,3,13
+132,Escape Pods-RPN132 (R),680,72,3
+133,Life Support Systems-RPN133 (R),768,62,31
+134,Medical Utilities for Humans-RPN134 (R),768,4,10
+135,Medical utilities for non-Humans-RPN135 (R),768,45,8
+136,Ion-Engine-RPN136 (R),901,75,34
+137,Booster Engines-RPN137 (R),122,14,40
+138,FTL Engines-RPN138 (R),122,84,14
+139,Thrusters-RPN139 (R),122,35,37
+140,Hyper Drive-RPN140 (R),122,27,33
+141,Warp Drive-RPN141 (R),122,18,13
+142,Flux Capacitor-RPN142 (R),122,42,46
+143,Kyber Capacitor (Black Market)-RPN143 (R),122,49,35
+144,Nav Computer-RPN144 (R),122,85,28
+145,Landing Gear-RPN145 (R),122,39,25
+146,Artificial Gravity Generators-RPN146 (R),122,69,42
+147,Cloaking Device (Black Market)-RPN147 (R),122,70,19
+148,Shield Generators-RPN148 (R),131,79,24
+149,Field Generators-RPN149 (R),131,58,34
+150,WaveFront Generators-RPN150 (R),252,47,5
+151,Deflector Screens-RPN151 (R),252,6,37
+152,Backup Power Generators-RPN152 (R),252,24,17
+153,Ion Blasters-RPN153 (R),252,96,1
+154,Propulsion Blasters-RPN154 (R),252,2,36
+155,Heat Blasters-RPN155 (R),252,21,14
+156,Radiation Guns-RPN156 (R),252,69,39
+157,Fuel Cells-RPN157 (R),252,40,4
+158,Tanks-RPN158 (R),252,76,46
+159,Escape Pods-RPN159 (R),252,3,27
+160,Life Support Systems-RPN160 (R),252,17,42
+161,Medical Utilities for Humans-RPN161 (R),261,14,12
+162,Medical utilities for non-Humans-RPN162 (R),261,14,41
+163,Ion-Engine-RPN163 (R),352,56,10
+164,Booster Engines-RPN164 (R),352,63,8
+165,FTL Engines-RPN165 (R),352,38,34
+166,Thrusters-RPN166 (R),352,53,26
+167,Hyper Drive-RPN167 (R),352,7,19
+168,Warp Drive-RPN168 (R),352,10,20
+169,Flux Capacitor-RPN169 (R),352,82,17
+170,Kyber Capacitor (Black Market)-RPN170 (R),352,30,28
+171,Nav Computer-RPN171 (R),352,84,31
+172,Landing Gear-RPN172 (R),352,27,30
+173,Artificial Gravity Generators-RPN173 (R),352,77,14
+174,Cloaking Device (Black Market)-RPN174 (R),373,46,16
+175,Shield Generators-RPN175 (R),373,44,23
+176,Field Generators-RPN176 (R),483,34,4
+177,WaveFront Generators-RPN177 (R),483,6,21
+178,Deflector Screens-RPN178 (R),483,28,16
+179,Backup Power Generators-RPN179 (R),483,38,2
+180,Ion Blasters-RPN180 (R),483,68,6
+181,Propulsion Blasters-RPN181 (R),483,37,25
+182,Heat Blasters-RPN182 (R),483,44,23
+183,Radiation Guns-RPN183 (R),483,55,21
+184,Fuel Cells-RPN184 (R),483,25,28
+185,Tanks-RPN185 (R),483,76,3
+186,Escape Pods-RPN186 (R),483,32,42
+187,Life Support Systems-RPN187 (R),492,10,45
+188,Medical Utilities for Humans-RPN188 (R),492,68,30
+189,Medical utilities for non-Humans-RPN189 (R),243,47,26
+190,Ion-Engine-RPN190 (R),243,64,47
+191,Booster Engines-RPN191 (R),243,79,25
+192,FTL Engines-RPN192 (R),256,36,17
+193,Thrusters-RPN193 (R),243,40,24
+194,Hyper Drive-RPN194 (R),243,72,47
+195,Warp Drive-RPN195 (R),256,62,24
+196,Flux Capacitor-RPN196 (R),243,99,15
+197,Kyber Capacitor (Black Market)-RPN197 (R),256,65,24
+198,Nav Computer-RPN198 (R),243,46,28
+199,Landing Gear-RPN199 (R),256,99,26
+200,Artificial Gravity Generators-RPN200 (R),256,77,24
+201,Cloaking Device (Black Market)-RPN201 (R),256,19,48
+202,Shield Generators-RPN202 (R),256,56,7
+203,Field Generators-RPN203 (R),506,12,20
+204,WaveFront Generators-RPN204 (R),506,45,36
+205,Deflector Screens-RPN205 (R),506,64,44
+206,Backup Power Generators-RPN206 (R),525,28,38
+207,Ion Blasters-RPN207 (R),506,43,32
+208,Propulsion Blasters-RPN208 (R),506,80,47
+209,Heat Blasters-RPN209 (R),525,69,10
+210,Radiation Guns-RPN210 (R),506,44,18
+211,Fuel Cells-RPN211 (R),525,25,33
+212,Tanks-RPN212 (R),506,36,10
+213,Escape Pods-RPN213 (R),525,85,18
+214,Life Support Systems-RPN214 (R),525,78,11
+215,Medical Utilities for Humans-RPN215 (R),525,54,2
+216,Medical utilities for non-Humans-RPN216 (R),525,21,37
+217,Ion-Engine-RPN217 (R),1039,16,21
+218,Booster Engines-RPN218 (R),1039,89,15
+219,FTL Engines-RPN219 (R),1039,94,48
+220,Thrusters-RPN220 (R),1039,56,48
+221,Hyper Drive-RPN221 (R),1039,66,31
+222,Warp Drive-RPN222 (R),985,16,9
+223,Flux Capacitor-RPN223 (R),985,29,17
+224,Kyber Capacitor (Black Market)-RPN224 (R),985,72,44
+225,Nav Computer-RPN225 (R),985,73,38
+226,Landing Gear-RPN226 (R),985,46,17
+227,Artificial Gravity Generators-RPN227 (R),985,61,46
+228,Cloaking Device (Black Market)-RPN228 (R),985,31,24
+229,Shield Generators-RPN229 (R),1039,49,49
+230,Field Generators-RPN230 (R),1039,92,18
+231,WaveFront Generators-RPN231 (R),85,89,29
+232,Deflector Screens-RPN232 (R),85,73,39
+233,Backup Power Generators-RPN233 (R),85,20,38
+234,Ion Blasters-RPN234 (R),85,20,20
+235,Propulsion Blasters-RPN235 (R),85,36,39
+236,Heat Blasters-RPN236 (R),73,56,26
+237,Radiation Guns-RPN237 (R),73,37,8
+238,Fuel Cells-RPN238 (R),73,1,39
+239,Tanks-RPN239 (R),73,11,41
+240,Escape Pods-RPN240 (R),73,41,42
+241,Life Support Systems-RPN241 (R),73,16,48
+242,Medical Utilities for Humans-RPN242 (R),85,9,15
+243,Medical utilities for non-Humans-RPN243 (R),85,2,30
+244,Ion-Engine-RPN244 (R),167,54,32
+245,Booster Engines-RPN245 (R),167,45,23
+246,FTL Engines-RPN246 (R),167,34,30
+247,Thrusters-RPN247 (R),167,6,43
+248,Hyper Drive-RPN248 (R),167,54,9
+249,Warp Drive-RPN249 (R),141,32,6
+250,Flux Capacitor-RPN250 (R),141,89,27
+251,Kyber Capacitor (Black Market)-RPN251 (R),141,12,11
+252,Nav Computer-RPN252 (R),141,32,7
+253,Landing Gear-RPN253 (R),141,65,39
+254,Artificial Gravity Generators-RPN254 (R),141,60,20
+255,Cloaking Device (Black Market)-RPN255 (R),167,86,4
+256,Shield Generators-RPN256 (R),167,85,49
+257,Field Generators-RPN257 (R),251,40,43
+258,WaveFront Generators-RPN258 (R),251,4,16
+259,Deflector Screens-RPN259 (R),251,98,39
+260,Backup Power Generators-RPN260 (R),251,64,32
+261,Ion Blasters-RPN261 (R),251,81,11
+262,Propulsion Blasters-RPN262 (R),209,30,6
+263,Heat Blasters-RPN263 (R),209,72,38
+264,Radiation Guns-RPN264 (R),209,30,27
+265,Fuel Cells-RPN265 (R),209,90,1
+266,Tanks-RPN266 (R),223,71,49
+267,Escape Pods-RPN267 (R),223,11,19
+268,Life Support Systems-RPN268 (R),251,89,29
+269,Medical Utilities for Humans-RPN269 (R),264,60,45
+270,Medical utilities for non-Humans-RPN270 (R),321,70,37
+271,Ion-Engine-RPN271 (R),321,97,22
+272,Booster Engines-RPN272 (R),321,60,47
+273,FTL Engines-RPN273 (R),321,91,39
+274,Thrusters-RPN274 (R),321,93,43
+275,Hyper Drive-RPN275 (R),276,52,44
+276,Warp Drive-RPN276 (R),276,68,35
+277,Flux Capacitor-RPN277 (R),276,89,27
+278,Kyber Capacitor (Black Market)-RPN278 (R),276,7,41
+279,Nav Computer-RPN279 (R),303,63,16
+280,Landing Gear-RPN280 (R),303,59,23
+281,Artificial Gravity Generators-RPN281 (R),321,54,20
+282,Cloaking Device (Black Market)-RPN282 (R),339,81,27
+283,Shield Generators-RPN283 (R),99,97,2
+284,Field Generators-RPN284 (R),109,95,4
+285,WaveFront Generators-RPN285 (R),99,76,43
+286,Deflector Screens-RPN286 (R),109,76,43
+287,Backup Power Generators-RPN287 (R),192,31,20
+288,Ion Blasters-RPN288 (R),1413,17,1
+289,Propulsion Blasters-RPN289 (R),1413,11,41
+290,Heat Blasters-RPN290 (R),1413,30,21
+291,Radiation Guns-RPN291 (R),1413,96,8
+292,Fuel Cells-RPN292 (R),1413,43,8
+293,Tanks-RPN293 (R),1413,64,10
+294,Escape Pods-RPN294 (R),1413,14,36
+295,Life Support Systems-RPN295 (R),1413,8,1
+296,Medical Utilities for Humans-RPN296 (R),1322,55,23
+297,Medical utilities for non-Humans-RPN297 (R),1322,78,12
+298,Ion-Engine-RPN298 (R),1322,26,44
+299,Booster Engines-RPN299 (R),1322,11,3
+300,FTL Engines-RPN300 (R),1322,22,34
+301,Thrusters-RPN301 (R),1322,82,19
+302,Hyper Drive-RPN302 (R),1322,20,14
+303,Warp Drive-RPN303 (R),1322,89,3
+304,Flux Capacitor-RPN304 (R),1322,86,33
+305,Kyber Capacitor (Black Market)-RPN305 (R),1322,44,15
+306,Nav Computer-RPN306 (R),1633,77,6
+307,Landing Gear-RPN307 (R),1633,15,15
+308,Artificial Gravity Generators-RPN308 (R),1609,44,38
+309,Cloaking Device (Black Market)-RPN309 (R),1609,35,39
+310,Shield Generators-RPN310 (R),2318,18,18
+311,Field Generators-RPN311 (R),2366,58,20
+312,WaveFront Generators-RPN312 (R),2366,99,14
+313,Deflector Screens-RPN313 (R),2366,16,4
+314,Backup Power Generators-RPN314 (R),2366,65,2
+315,Ion Blasters-RPN315 (R),2039,32,14
+316,Propulsion Blasters-RPN316 (R),2039,78,8
+317,Heat Blasters-RPN317 (R),2039,69,37
+318,Radiation Guns-RPN318 (R),2039,32,43
+319,Fuel Cells-RPN319 (R),2039,28,26
+320,Tanks-RPN320 (R),2437,3,20
+321,Escape Pods-RPN321 (R),2086,20,1
+322,Life Support Systems-RPN322 (R),2129,35,37
+323,Medical Utilities for Humans-RPN323 (R),4661,10,21
+324,Medical utilities for non-Humans-RPN324 (R),4661,79,8
+325,Ion-Engine-RPN325 (R),4661,4,49
+326,Booster Engines-RPN326 (R),4661,91,24
+327,FTL Engines-RPN327 (R),4378,72,29
+328,Thrusters-RPN328 (R),4378,89,35
+329,Hyper Drive-RPN329 (R),4378,15,3
+330,Warp Drive-RPN330 (R),4378,50,23
+331,Flux Capacitor-RPN331 (R),5052,30,19
+332,Kyber Capacitor (Black Market)-RPN332 (R),5158,47,33
+333,Nav Computer-RPN333 (R),5158,8,24
+334,Landing Gear-RPN334 (R),4751,92,34
+335,Artificial Gravity Generators-RPN335 (R),4851,97,34
+336,Cloaking Device (Black Market)-RPN336 (R),4851,17,2
+337,Shield Generators-RPN337 (R),7486,38,31
+338,Field Generators-RPN338 (R),7643,90,24
+339,WaveFront Generators-RPN339 (R),7300,73,43
+340,Deflector Screens-RPN340 (R),7454,22,31
+341,Backup Power Generators-RPN341 (R),9471,90,9
+342,Ion Blasters-RPN342 (R),9471,28,31
+343,Propulsion Blasters-RPN343 (R),9471,62,45
+344,Heat Blasters-RPN344 (R),9275,66,11
+345,Radiation Guns-RPN345 (R),28505,39,45
+346,Fuel Cells-RPN346 (R),28505,37,35
+347,Tanks-RPN347 (R),28505,77,14
+348,Escape Pods-RPN348 (R),28505,86,3
+349,Life Support Systems-RPN349 (R),28181,37,3
+350,Medical Utilities for Humans-RPN350 (R),187,52,33
+351,Medical utilities for non-Humans-RPN351 (R),187,89,9
+352,Ion-Engine-RPN352 (R),187,96,1
+353,Booster Engines-RPN353 (R),374,82,14
+354,FTL Engines-RPN354 (R),374,7,14
+355,Thrusters-RPN355 (R),374,79,32
+356,Hyper Drive-RPN356 (R),5726,52,9
+357,Warp Drive-RPN357 (R),5726,20,24
+358,Flux Capacitor-RPN358 (R),5726,68,11
+359,Kyber Capacitor (Black Market)-RPN359 (R),5726,27,46
+360,Nav Computer-RPN360 (R),12582,44,22
+361,Landing Gear-RPN361 (R),12582,76,22
+362,Artificial Gravity Generators-RPN362 (R),13529,10,11
+363,Cloaking Device (Black Market)-RPN363 (R),13529,8,35
+364,Shield Generators-RPN364 (R),9858,89,33
+365,Field Generators-RPN365 (R),9858,59,48
+366,WaveFront Generators-RPN366 (R),10989,46,11
+367,Deflector Screens-RPN367 (R),10989,10,4
+368,Backup Power Generators-RPN368 (R),5726,68,18
+369,Ion Blasters-RPN369 (R),5726,48,27
+370,Propulsion Blasters-RPN370 (R),5726,73,30
+371,Heat Blasters-RPN371 (R),5726,77,18
+372,Radiation Guns-RPN372 (R),415,56,7
+373,Fuel Cells-RPN373 (R),415,79,33
+374,Tanks-RPN374 (R),415,52,41
+375,Escape Pods-RPN375 (R),1154,32,8
+376,Life Support Systems-RPN376 (R),1154,83,46
+377,Medical Utilities for Humans-RPN377 (R),1154,39,37
+378,Medical utilities for non-Humans-RPN378 (R),1039,14,31
+379,Ion-Engine-RPN379 (R),1039,58,29
+380,Booster Engines-RPN380 (R),1039,83,9
+381,FTL Engines-RPN381 (R),415,73,24
+382,Thrusters-RPN382 (R),415,71,30
+383,Hyper Drive-RPN383 (R),415,7,37
+384,Warp Drive-RPN384 (R),415,24,10
+385,Flux Capacitor-RPN385 (R),415,94,36
+386,Kyber Capacitor (Black Market)-RPN386 (R),947,35,20
+387,Nav Computer-RPN387 (R),947,31,48
+388,Landing Gear-RPN388 (R),947,86,9
+389,Artificial Gravity Generators-RPN389 (R),2032,49,7
+390,Cloaking Device (Black Market)-RPN390 (R),2032,8,28
+391,Shield Generators-RPN391 (R),2032,91,1
+392,Field Generators-RPN392 (R),762,77,4
+393,WaveFront Generators-RPN393 (R),762,53,5
+394,Deflector Screens-RPN394 (R),762,49,1
+395,Backup Power Generators-RPN395 (R),1039,34,16
+396,Ion Blasters-RPN396 (R),1247,23,17
+397,Propulsion Blasters-RPN397 (R),1363,54,16
+398,Heat Blasters-RPN398 (R),1662,58,39
+399,Radiation Guns-RPN399 (R),1761,82,29
+400,Fuel Cells-RPN400 (R),1761,24,11
+401,Tanks-RPN401 (R),1761,33,27
+402,Escape Pods-RPN402 (R),1761,44,35
+403,Life Support Systems-RPN403 (R),1761,74,42
+404,Medical Utilities for Humans-RPN404 (R),1761,71,36
+405,Medical utilities for non-Humans-RPN405 (R),1761,68,1
+406,Ion-Engine-RPN406 (R),1761,24,37
+407,Booster Engines-RPN407 (R),1761,48,36
+408,FTL Engines-RPN408 (R),1666,51,4
+409,Thrusters-RPN409 (R),1666,46,23
+410,Hyper Drive-RPN410 (R),1666,33,17
+411,Warp Drive-RPN411 (R),1666,68,34
+412,Flux Capacitor-RPN412 (R),1666,92,41
+413,Kyber Capacitor (Black Market)-RPN413 (R),1666,96,27
+414,Nav Computer-RPN414 (R),1666,33,48
+415,Landing Gear-RPN415 (R),1666,39,38
+416,Artificial Gravity Generators-RPN416 (R),1666,33,36
+417,Cloaking Device (Black Market)-RPN417 (R),1666,96,25
+418,Shield Generators-RPN418 (R),2139,48,22
+419,Field Generators-RPN419 (R),2139,15,32
+420,WaveFront Generators-RPN420 (R),2095,37,28
+421,Deflector Screens-RPN421 (R),2095,63,2
+422,Backup Power Generators-RPN422 (R),2917,58,42
+423,Ion Blasters-RPN423 (R),2917,97,45
+424,Propulsion Blasters-RPN424 (R),2917,57,18
+425,Heat Blasters-RPN425 (R),2917,34,14
+426,Radiation Guns-RPN426 (R),2917,44,5
+427,Fuel Cells-RPN427 (R),2552,79,14
+428,Tanks-RPN428 (R),2552,41,10
+429,Escape Pods-RPN429 (R),2552,95,36
+430,Life Support Systems-RPN430 (R),2552,10,14
+431,Medical Utilities for Humans-RPN431 (R),2552,63,47
+432,Medical utilities for non-Humans-RPN432 (R),3094,80,7
+433,Ion-Engine-RPN433 (R),2737,17,6
+434,Booster Engines-RPN434 (R),2795,51,7
+435,FTL Engines-RPN435 (R),6318,21,33
+436,Thrusters-RPN436 (R),6318,57,11
+437,Hyper Drive-RPN437 (R),6318,75,23
+438,Warp Drive-RPN438 (R),6318,55,11
+439,Flux Capacitor-RPN439 (R),5833,64,8
+440,Kyber Capacitor (Black Market)-RPN440 (R),5833,71,25
+441,Nav Computer-RPN441 (R),5833,10,45
+442,Landing Gear-RPN442 (R),5833,65,28
+443,Artificial Gravity Generators-RPN443 (R),7140,44,45
+444,Cloaking Device (Black Market)-RPN444 (R),7140,57,45
+445,Shield Generators-RPN445 (R),7291,16,1
+446,Field Generators-RPN446 (R),6665,70,14
+447,WaveFront Generators-RPN447 (R),6805,66,28
+448,Deflector Screens-RPN448 (R),6805,42,30
+449,Backup Power Generators-RPN449 (R),10710,38,45
+450,Ion Blasters-RPN450 (R),10936,98,12
+451,Propulsion Blasters-RPN451 (R),10710,73,47
+452,Heat Blasters-RPN452 (R),10710,81,9
+453,Radiation Guns-RPN453 (R),13090,14,46
+454,Fuel Cells-RPN454 (R),13090,25,39
+455,Tanks-RPN455 (R),13090,30,22
+456,Escape Pods-RPN456 (R),13090,10,36
+457,Life Support Systems-RPN457 (R),39746,8,25
+458,Medical Utilities for Humans-RPN458 (R),39746,97,18
+459,Medical utilities for non-Humans-RPN459 (R),39746,56,28
+460,Ion-Engine-RPN460 (R),39746,65,39
+461,Booster Engines-RPN461 (R),219,60,7
+462,FTL Engines-RPN462 (R),187,54,25
+463,Thrusters-RPN463 (R),415,44,34
+464,Hyper Drive-RPN464 (R),415,4,43
+465,Warp Drive-RPN465 (R),48857,57,13
+466,Flux Capacitor-RPN466 (R),48857,5,37
+467,Kyber Capacitor (Black Market)-RPN467 (R),52347,87,32
+468,Nav Computer-RPN468 (R),52347,7,14
+469,Landing Gear-RPN469 (R),73577,2,19
+470,Artificial Gravity Generators-RPN470 (R),73577,77,26
+471,Cloaking Device (Black Market)-RPN471 (R),77066,39,10
+472,Shield Generators-RPN472 (R),77066,28,6
+473,Field Generators-RPN473 (R),51183,73,48
+474,WaveFront Generators-RPN474 (R),51183,44,9
+475,Deflector Screens-RPN475 (R),54840,87,19
+476,Backup Power Generators-RPN476 (R),54840,65,15
+477,Ion Blasters-RPN477 (R),77081,32,35
+478,Propulsion Blasters-RPN478 (R),77081,75,8
+479,Heat Blasters-RPN479 (R),80737,71,24
+480,Radiation Guns-RPN480 (R),80737,67,30
+481,Fuel Cells-RPN481 (R),12476,37,48
+482,Tanks-RPN482 (R),12476,12,12
+483,Escape Pods-RPN483 (R),12476,31,48
+484,Life Support Systems-RPN484 (R),12476,44,37
+485,Medical Utilities for Humans-RPN485 (R),13071,35,36
+486,Medical utilities for non-Humans-RPN486 (R),13071,65,25
+487,Ion-Engine-RPN487 (R),13071,51,1
+488,Booster Engines-RPN488 (R),13071,41,5
+489,FTL Engines-RPN489 (R),13664,58,20
+490,Thrusters-RPN490 (R),13664,68,34
+491,Hyper Drive-RPN491 (R),13664,96,10
+492,Warp Drive-RPN492 (R),13664,53,20
+493,Flux Capacitor-RPN493 (R),14853,14,47
+494,Kyber Capacitor (Black Market)-RPN494 (R),14853,86,44
+495,Nav Computer-RPN495 (R),14853,67,28
+496,Landing Gear-RPN496 (R),14853,42,36
+497,Artificial Gravity Generators-RPN497 (R),14259,32,15
+498,Cloaking Device (Black Market)-RPN498 (R),14259,44,15
+499,Shield Generators-RPN499 (R),14259,1,39
+500,Field Generators-RPN500 (R),14259,70,29
+501,WaveFront Generators-RPN501 (R),16257,78,42
+502,Deflector Screens-RPN502 (R),16257,74,16
+503,Backup Power Generators-RPN503 (R),16257,92,31
+504,Ion Blasters-RPN504 (R),16257,70,9
+505,Propulsion Blasters-RPN505 (R),17031,82,41
+506,Heat Blasters-RPN506 (R),17031,44,5
+507,Radiation Guns-RPN507 (R),17031,50,30
+508,Fuel Cells-RPN508 (R),17031,56,1
+509,Tanks-RPN509 (R),17804,4,29
+510,Escape Pods-RPN510 (R),17804,10,2
+511,Life Support Systems-RPN511 (R),17804,70,9
+512,Medical Utilities for Humans-RPN512 (R),17804,8,6
+513,Medical utilities for non-Humans-RPN513 (R),19354,53,17
+514,Ion-Engine-RPN514 (R),19354,23,37
+515,Booster Engines-RPN515 (R),19354,58,30
+516,FTL Engines-RPN516 (R),19354,34,34
+517,Thrusters-RPN517 (R),18579,71,19
+518,Hyper Drive-RPN518 (R),18579,60,6
+519,Warp Drive-RPN519 (R),18579,82,49
+520,Flux Capacitor-RPN520 (R),18579,34,6
+521,Kyber Capacitor (Black Market)-RPN521 (R),12476,97,6
+522,Nav Computer-RPN522 (R),12476,8,20
+523,Landing Gear-RPN523 (R),12476,1,14
+524,Artificial Gravity Generators-RPN524 (R),12476,29,44
+525,Cloaking Device (Black Market)-RPN525 (R),13378,47,40
+526,Shield Generators-RPN526 (R),13071,47,47
+527,Field Generators-RPN527 (R),13071,41,20
+528,WaveFront Generators-RPN528 (R),13071,90,47
+529,Deflector Screens-RPN529 (R),13071,85,25
+530,Backup Power Generators-RPN530 (R),14015,63,25
+531,Ion Blasters-RPN531 (R),13664,47,14
+532,Propulsion Blasters-RPN532 (R),13664,87,23
+533,Heat Blasters-RPN533 (R),13664,32,12
+534,Radiation Guns-RPN534 (R),13664,55,28
+535,Fuel Cells-RPN535 (R),14652,9,7
+536,Tanks-RPN536 (R),14853,78,10
+537,Escape Pods-RPN537 (R),14853,77,1
+538,Life Support Systems-RPN538 (R),14853,55,16
+539,Medical Utilities for Humans-RPN539 (R),14853,37,41
+540,Medical utilities for non-Humans-RPN540 (R),15926,15,13
+541,Ion-Engine-RPN541 (R),14259,27,33
+542,Booster Engines-RPN542 (R),14259,10,15
+543,FTL Engines-RPN543 (R),14259,48,24
+544,Thrusters-RPN544 (R),14259,82,34
+545,Hyper Drive-RPN545 (R),15288,28,15
+546,Warp Drive-RPN546 (R),16257,13,27
+547,Flux Capacitor-RPN547 (R),16257,58,3
+548,Kyber Capacitor (Black Market)-RPN548 (R),16257,6,42
+549,Nav Computer-RPN549 (R),16257,12,25
+550,Landing Gear-RPN550 (R),17594,51,20
+551,Artificial Gravity Generators-RPN551 (R),17031,17,47
+552,Cloaking Device (Black Market)-RPN552 (R),17031,50,16
+553,Shield Generators-RPN553 (R),17031,4,35
+554,Field Generators-RPN554 (R),17031,89,47
+555,WaveFront Generators-RPN555 (R),18433,15,48
+556,Deflector Screens-RPN556 (R),17804,34,24
+557,Backup Power Generators-RPN557 (R),17804,43,19
+558,Ion Blasters-RPN558 (R),17804,83,11
+559,Propulsion Blasters-RPN559 (R),17804,99,18
+560,Heat Blasters-RPN560 (R),19271,21,24
+561,Radiation Guns-RPN561 (R),19354,90,3
+562,Fuel Cells-RPN562 (R),19354,6,23
+563,Tanks-RPN563 (R),19354,16,44
+564,Escape Pods-RPN564 (R),19354,80,14
+565,Life Support Systems-RPN565 (R),20946,36,42
+566,Medical Utilities for Humans-RPN566 (R),18579,60,25
+567,Medical utilities for non-Humans-RPN567 (R),18579,91,12
+568,Ion-Engine-RPN568 (R),18579,3,11
+569,Booster Engines-RPN569 (R),18579,39,4
+570,FTL Engines-RPN570 (R),20107,54,45
+571,Thrusters-RPN571 (R),5206,41,43
+572,Hyper Drive-RPN572 (R),5206,92,49
+573,Warp Drive-RPN573 (R),5206,95,46
+574,Flux Capacitor-RPN574 (R),5206,26,13
+575,Kyber Capacitor (Black Market)-RPN575 (R),5206,41,23
+576,Nav Computer-RPN576 (R),5206,36,24
+577,Landing Gear-RPN577 (R),5454,16,13
+578,Artificial Gravity Generators-RPN578 (R),5454,38,22
+579,Cloaking Device (Black Market)-RPN579 (R),5454,3,49
+580,Shield Generators-RPN580 (R),5454,93,46
+581,Field Generators-RPN581 (R),5454,20,3
+582,WaveFront Generators-RPN582 (R),5454,93,47
+583,Deflector Screens-RPN583 (R),5702,98,45
+584,Backup Power Generators-RPN584 (R),5702,37,5
+585,Ion Blasters-RPN585 (R),5702,27,28
+586,Propulsion Blasters-RPN586 (R),5702,47,2
+587,Heat Blasters-RPN587 (R),5702,50,5
+588,Radiation Guns-RPN588 (R),5702,57,36
+589,Fuel Cells-RPN589 (R),6198,49,23
+590,Tanks-RPN590 (R),6198,85,9
+591,Escape Pods-RPN591 (R),6198,76,8
+592,Life Support Systems-RPN592 (R),6198,59,18
+593,Medical Utilities for Humans-RPN593 (R),6198,40,16
+594,Medical utilities for non-Humans-RPN594 (R),6198,21,2
+595,Ion-Engine-RPN595 (R),5949,37,36
+596,Booster Engines-RPN596 (R),5949,57,19
+597,FTL Engines-RPN597 (R),5949,99,33
+598,Thrusters-RPN598 (R),5949,2,1
+599,Hyper Drive-RPN599 (R),5949,64,6
+600,Warp Drive-RPN600 (R),5949,32,10
+601,Flux Capacitor-RPN601 (R),6688,77,38
+602,Kyber Capacitor (Black Market)-RPN602 (R),6688,87,21
+603,Nav Computer-RPN603 (R),6688,51,11
+604,Landing Gear-RPN604 (R),6688,70,2
+605,Artificial Gravity Generators-RPN605 (R),6688,57,5
+606,Cloaking Device (Black Market)-RPN606 (R),6688,66,7
+607,Shield Generators-RPN607 (R),7007,36,16
+608,Field Generators-RPN608 (R),7007,27,39
+609,WaveFront Generators-RPN609 (R),7007,21,37
+610,Deflector Screens-RPN610 (R),7007,9,4
+611,Backup Power Generators-RPN611 (R),7007,30,30
+612,Ion Blasters-RPN612 (R),7007,99,3
+613,Propulsion Blasters-RPN613 (R),7326,49,42
+614,Heat Blasters-RPN614 (R),7326,34,12
+615,Radiation Guns-RPN615 (R),7326,4,3
+616,Fuel Cells-RPN616 (R),7326,63,7
+617,Tanks-RPN617 (R),7326,3,26
+618,Escape Pods-RPN618 (R),7326,50,13
+619,Life Support Systems-RPN619 (R),7962,11,9
+620,Medical Utilities for Humans-RPN620 (R),7962,31,16
+621,Medical utilities for non-Humans-RPN621 (R),7962,18,12
+622,Ion-Engine-RPN622 (R),7962,49,46
+623,Booster Engines-RPN623 (R),7962,48,35
+624,FTL Engines-RPN624 (R),7962,23,28
+625,Thrusters-RPN625 (R),7644,51,45
+626,Hyper Drive-RPN626 (R),7644,17,42
+627,Warp Drive-RPN627 (R),7644,23,5
+628,Flux Capacitor-RPN628 (R),7644,29,43
+629,Kyber Capacitor (Black Market)-RPN629 (R),7644,1,9
+630,Nav Computer-RPN630 (R),7644,47,18
+631,Landing Gear-RPN631 (R),4072,44,7
+632,Artificial Gravity Generators-RPN632 (R),4072,6,38
+633,Cloaking Device (Black Market)-RPN633 (R),4072,89,17
+634,Shield Generators-RPN634 (R),4072,53,21
+635,Field Generators-RPN635 (R),4072,96,46
+636,WaveFront Generators-RPN636 (R),4072,15,35
+637,Deflector Screens-RPN637 (R),4072,32,21
+638,Backup Power Generators-RPN638 (R),4072,94,14
+639,Ion Blasters-RPN639 (R),4072,81,29
+640,Propulsion Blasters-RPN640 (R),4072,12,7
+641,Heat Blasters-RPN641 (R),4265,52,40
+642,Radiation Guns-RPN642 (R),4265,11,7
+643,Fuel Cells-RPN643 (R),4265,90,39
+644,Tanks-RPN644 (R),4265,22,42
+645,Escape Pods-RPN645 (R),4265,17,42
+646,Life Support Systems-RPN646 (R),4265,57,3
+647,Medical Utilities for Humans-RPN647 (R),4265,58,31
+648,Medical utilities for non-Humans-RPN648 (R),4265,95,14
+649,Ion-Engine-RPN649 (R),4265,87,32
+650,Booster Engines-RPN650 (R),4265,82,31
+651,FTL Engines-RPN651 (R),4460,46,19
+652,Thrusters-RPN652 (R),4460,27,46
+653,Hyper Drive-RPN653 (R),4460,93,10
+654,Warp Drive-RPN654 (R),4460,21,23
+655,Flux Capacitor-RPN655 (R),4460,71,3
+656,Kyber Capacitor (Black Market)-RPN656 (R),4460,81,14
+657,Nav Computer-RPN657 (R),4460,94,42
+658,Landing Gear-RPN658 (R),4460,69,18
+659,Artificial Gravity Generators-RPN659 (R),4460,34,26
+660,Cloaking Device (Black Market)-RPN660 (R),4460,58,39
+661,Shield Generators-RPN661 (R),4846,2,43
+662,Field Generators-RPN662 (R),4846,19,44
+663,WaveFront Generators-RPN663 (R),4846,82,47
+664,Deflector Screens-RPN664 (R),4846,71,44
+665,Backup Power Generators-RPN665 (R),4846,25,44
+666,Ion Blasters-RPN666 (R),4846,76,44
+667,Propulsion Blasters-RPN667 (R),4846,55,30
+668,Heat Blasters-RPN668 (R),4846,4,17
+669,Radiation Guns-RPN669 (R),4846,1,43
+670,Fuel Cells-RPN670 (R),4846,32,32
+671,Tanks-RPN671 (R),4653,12,18
+672,Escape Pods-RPN672 (R),4653,53,42
+673,Life Support Systems-RPN673 (R),4653,20,24
+674,Medical Utilities for Humans-RPN674 (R),4653,3,41
+675,Medical utilities for non-Humans-RPN675 (R),4653,48,47
+676,Ion-Engine-RPN676 (R),4653,29,41
+677,Booster Engines-RPN677 (R),4653,45,22
+678,FTL Engines-RPN678 (R),4653,91,20
+679,Thrusters-RPN679 (R),4653,70,48
+680,Hyper Drive-RPN680 (R),4653,93,7
+681,Warp Drive-RPN681 (R),5293,44,16
+682,Flux Capacitor-RPN682 (R),5293,5,38
+683,Kyber Capacitor (Black Market)-RPN683 (R),5293,38,42
+684,Nav Computer-RPN684 (R),5293,95,49
+685,Landing Gear-RPN685 (R),5293,98,25
+686,Artificial Gravity Generators-RPN686 (R),5293,51,30
+687,Cloaking Device (Black Market)-RPN687 (R),5293,46,46
+688,Shield Generators-RPN688 (R),5293,90,9
+689,Field Generators-RPN689 (R),5293,26,31
+690,WaveFront Generators-RPN690 (R),5293,75,14
+691,Deflector Screens-RPN691 (R),5545,11,39
+692,Backup Power Generators-RPN692 (R),5545,78,21
+693,Ion Blasters-RPN693 (R),5545,76,12
+694,Propulsion Blasters-RPN694 (R),5545,71,34
+695,Heat Blasters-RPN695 (R),5545,30,34
+696,Radiation Guns-RPN696 (R),5545,24,24
+697,Fuel Cells-RPN697 (R),5545,34,23
+698,Tanks-RPN698 (R),5545,11,27
+699,Escape Pods-RPN699 (R),5545,88,37
+700,Life Support Systems-RPN700 (R),5545,26,5
+701,Medical Utilities for Humans-RPN701 (R),5797,50,49
+702,Medical utilities for non-Humans-RPN702 (R),5797,94,24
+703,Ion-Engine-RPN703 (R),5797,44,39
+704,Booster Engines-RPN704 (R),5797,92,5
+705,FTL Engines-RPN705 (R),5797,61,21
+706,Thrusters-RPN706 (R),5797,98,40
+707,Hyper Drive-RPN707 (R),5797,33,10
+708,Warp Drive-RPN708 (R),5797,66,38
+709,Flux Capacitor-RPN709 (R),5797,66,35
+710,Kyber Capacitor (Black Market)-RPN710 (R),5797,56,19
+711,Nav Computer-RPN711 (R),6301,27,12
+712,Landing Gear-RPN712 (R),6301,29,24
+713,Artificial Gravity Generators-RPN713 (R),6301,47,22
+714,Cloaking Device (Black Market)-RPN714 (R),6301,61,49
+715,Shield Generators-RPN715 (R),6301,71,24
+716,Field Generators-RPN716 (R),6301,53,41
+717,WaveFront Generators-RPN717 (R),6301,78,6
+718,Deflector Screens-RPN718 (R),6301,91,49
+719,Backup Power Generators-RPN719 (R),6301,63,17
+720,Ion Blasters-RPN720 (R),6301,68,33
+721,Propulsion Blasters-RPN721 (R),6049,74,45
+722,Heat Blasters-RPN722 (R),6049,24,38
+723,Radiation Guns-RPN723 (R),6049,57,1
+724,Fuel Cells-RPN724 (R),6049,99,46
+725,Tanks-RPN725 (R),6049,38,46
+726,Escape Pods-RPN726 (R),6049,10,22
+727,Life Support Systems-RPN727 (R),6049,14,8
+728,Medical Utilities for Humans-RPN728 (R),6049,77,5
+729,Medical utilities for non-Humans-RPN729 (R),6049,25,4
+730,Ion-Engine-RPN730 (R),6049,49,33
+731,Booster Engines-RPN731 (R),28791,32,10
+732,FTL Engines-RPN732 (R),28791,36,11
+733,Thrusters-RPN733 (R),28791,82,12
+734,Hyper Drive-RPN734 (R),28791,78,39
+735,Warp Drive-RPN735 (R),30162,69,16
+736,Flux Capacitor-RPN736 (R),30162,34,33
+737,Kyber Capacitor (Black Market)-RPN737 (R),30162,28,7
+738,Nav Computer-RPN738 (R),30162,37,12
+739,Landing Gear-RPN739 (R),31534,86,45
+740,Artificial Gravity Generators-RPN740 (R),31534,54,21
+741,Cloaking Device (Black Market)-RPN741 (R),31534,46,20
+742,Shield Generators-RPN742 (R),31534,22,13
+743,Field Generators-RPN743 (R),34275,60,47
+744,WaveFront Generators-RPN744 (R),34275,33,1
+745,Deflector Screens-RPN745 (R),34275,49,30
+746,Backup Power Generators-RPN746 (R),34275,31,29
+747,Ion Blasters-RPN747 (R),32904,98,15
+748,Propulsion Blasters-RPN748 (R),32904,8,15
+749,Heat Blasters-RPN749 (R),32904,72,40
+750,Radiation Guns-RPN750 (R),32904,80,36
+751,Fuel Cells-RPN751 (R),38039,69,35
+752,Tanks-RPN752 (R),38039,48,17
+753,Escape Pods-RPN753 (R),38039,67,16
+754,Life Support Systems-RPN754 (R),38039,20,31
+755,Medical Utilities for Humans-RPN755 (R),39851,92,24
+756,Medical utilities for non-Humans-RPN756 (R),39851,15,20
+757,Ion-Engine-RPN757 (R),39851,76,4
+758,Booster Engines-RPN758 (R),39851,82,21
+759,FTL Engines-RPN759 (R),41662,93,12
+760,Thrusters-RPN760 (R),41662,26,13
+761,Hyper Drive-RPN761 (R),41662,27,15
+762,Warp Drive-RPN762 (R),41662,75,15
+763,Flux Capacitor-RPN763 (R),45284,97,30
+764,Kyber Capacitor (Black Market)-RPN764 (R),45284,25,46
+765,Nav Computer-RPN765 (R),45284,75,3
+766,Landing Gear-RPN766 (R),45284,70,25
+767,Artificial Gravity Generators-RPN767 (R),43474,27,32
+768,Cloaking Device (Black Market)-RPN768 (R),43474,11,16
+769,Shield Generators-RPN769 (R),43474,53,11
+770,Field Generators-RPN770 (R),43474,27,40
+771,WaveFront Generators-RPN771 (R),43041,85,12
+772,Deflector Screens-RPN772 (R),43041,87,25
+773,Backup Power Generators-RPN773 (R),43041,78,37
+774,Ion Blasters-RPN774 (R),43041,28,25
+775,Propulsion Blasters-RPN775 (R),55546,31,14
+776,Heat Blasters-RPN776 (R),55546,75,29
+777,Radiation Guns-RPN777 (R),55546,84,11
+778,Fuel Cells-RPN778 (R),55546,63,36
+779,Tanks-RPN779 (R),47140,1,43
+780,Escape Pods-RPN780 (R),47140,79,23
+781,Life Support Systems-RPN781 (R),47140,5,6
+782,Medical Utilities for Humans-RPN782 (R),47140,67,32
+783,Medical utilities for non-Humans-RPN783 (R),60836,73,35
+784,Ion-Engine-RPN784 (R),60836,62,14
+785,Booster Engines-RPN785 (R),60836,92,44
+786,FTL Engines-RPN786 (R),60836,19,18
+787,Thrusters-RPN787 (R),45092,18,1
+788,Hyper Drive-RPN788 (R),45092,37,28
+789,Warp Drive-RPN789 (R),45092,58,11
+790,Flux Capacitor-RPN790 (R),45092,95,26
+791,Kyber Capacitor (Black Market)-RPN791 (R),58192,39,13
+792,Nav Computer-RPN792 (R),58192,85,44
+793,Landing Gear-RPN793 (R),58192,84,2
+794,Artificial Gravity Generators-RPN794 (R),58192,24,48
+795,Cloaking Device (Black Market)-RPN795 (R),16341,42,26
+796,Shield Generators-RPN796 (R),16341,79,32
+797,Field Generators-RPN797 (R),20551,19,1
+798,WaveFront Generators-RPN798 (R),20551,20,21
+799,Deflector Screens-RPN799 (R),17158,54,20
+800,Backup Power Generators-RPN800 (R),17158,30,47
+801,Ion Blasters-RPN801 (R),21579,74,32
+802,Propulsion Blasters-RPN802 (R),21579,59,46
+803,Heat Blasters-RPN803 (R),18793,44,39
+804,Radiation Guns-RPN804 (R),18793,47,44
+805,Fuel Cells-RPN805 (R),23634,10,36
+806,Tanks-RPN806 (R),23634,34,32
+807,Escape Pods-RPN807 (R),17976,35,36
+808,Life Support Systems-RPN808 (R),17976,73,25
+809,Medical Utilities for Humans-RPN809 (R),22606,40,5
+810,Medical utilities for non-Humans-RPN810 (R),22606,63,20
+811,Ion-Engine-RPN811 (R),19609,6,4
+812,Booster Engines-RPN812 (R),19609,93,24
+813,FTL Engines-RPN813 (R),24662,85,49
+814,Thrusters-RPN814 (R),24662,95,11
+815,Hyper Drive-RPN815 (R),16341,76,10
+816,Warp Drive-RPN816 (R),16341,57,27
+817,Flux Capacitor-RPN817 (R),16895,1,30
+818,Kyber Capacitor (Black Market)-RPN818 (R),20551,66,15
+819,Nav Computer-RPN819 (R),20551,99,39
+820,Landing Gear-RPN820 (R),21326,66,19
+821,Artificial Gravity Generators-RPN821 (R),17158,23,40
+822,Cloaking Device (Black Market)-RPN822 (R),17158,55,37
+823,Shield Generators-RPN823 (R),17740,97,21
+824,Field Generators-RPN824 (R),21579,61,48
+825,WaveFront Generators-RPN825 (R),21579,91,9
+826,Deflector Screens-RPN826 (R),22393,38,1
+827,Backup Power Generators-RPN827 (R),18793,81,6
+828,Ion Blasters-RPN828 (R),18793,55,25
+829,Propulsion Blasters-RPN829 (R),19429,80,29
+830,Heat Blasters-RPN830 (R),23634,13,39
+831,Radiation Guns-RPN831 (R),23634,26,36
+832,Fuel Cells-RPN832 (R),24525,26,38
+833,Tanks-RPN833 (R),17976,36,21
+834,Escape Pods-RPN834 (R),17976,56,37
+835,Life Support Systems-RPN835 (R),18585,46,18
+836,Medical Utilities for Humans-RPN836 (R),22606,59,45
+837,Medical utilities for non-Humans-RPN837 (R),22606,40,7
+838,Ion-Engine-RPN838 (R),23460,86,36
+839,Booster Engines-RPN839 (R),19609,48,35
+840,FTL Engines-RPN840 (R),19609,75,20
+841,Thrusters-RPN841 (R),20274,60,1
+842,Hyper Drive-RPN842 (R),24662,86,6
+843,Warp Drive-RPN843 (R),24662,72,39
+844,Flux Capacitor-RPN844 (R),25592,51,16
+845,Kyber Capacitor (Black Market)-RPN845 (R),8725,38,23
+846,Nav Computer-RPN846 (R),8725,98,2
+847,Landing Gear-RPN847 (R),8725,95,23
+848,Artificial Gravity Generators-RPN848 (R),8725,70,14
+849,Cloaking Device (Black Market)-RPN849 (R),8725,11,2
+850,Shield Generators-RPN850 (R),10386,94,18
+851,Field Generators-RPN851 (R),10386,58,22
+852,WaveFront Generators-RPN852 (R),10386,34,42
+853,Deflector Screens-RPN853 (R),10386,94,28
+854,Backup Power Generators-RPN854 (R),10386,9,11
+855,Ion Blasters-RPN855 (R),9160,79,16
+856,Propulsion Blasters-RPN856 (R),9160,27,21
+857,Heat Blasters-RPN857 (R),9160,68,24
+858,Radiation Guns-RPN858 (R),9160,33,28
+859,Fuel Cells-RPN859 (R),9160,24,39
+860,Tanks-RPN860 (R),10905,14,7
+861,Escape Pods-RPN861 (R),10905,29,29
+862,Life Support Systems-RPN862 (R),10905,22,13
+863,Medical Utilities for Humans-RPN863 (R),10905,31,24
+864,Medical utilities for non-Humans-RPN864 (R),10905,78,25
+865,Ion-Engine-RPN865 (R),10033,8,16
+866,Booster Engines-RPN866 (R),10033,91,35
+867,FTL Engines-RPN867 (R),10033,51,35
+868,Thrusters-RPN868 (R),10033,84,21
+869,Hyper Drive-RPN869 (R),10033,62,12
+870,Warp Drive-RPN870 (R),11944,24,47
+871,Flux Capacitor-RPN871 (R),11944,83,12
+872,Kyber Capacitor (Black Market)-RPN872 (R),11944,68,19
+873,Nav Computer-RPN873 (R),11944,3,44
+874,Landing Gear-RPN874 (R),11944,65,13
+875,Artificial Gravity Generators-RPN875 (R),9597,85,49
+876,Cloaking Device (Black Market)-RPN876 (R),9597,72,17
+877,Shield Generators-RPN877 (R),9597,60,30
+878,Field Generators-RPN878 (R),9597,8,8
+879,WaveFront Generators-RPN879 (R),9597,52,29
+880,Deflector Screens-RPN880 (R),11424,17,49
+881,Backup Power Generators-RPN881 (R),11424,4,6
+882,Ion Blasters-RPN882 (R),11424,35,15
+883,Propulsion Blasters-RPN883 (R),11424,8,23
+884,Heat Blasters-RPN884 (R),11424,43,28
+885,Radiation Guns-RPN885 (R),10469,82,30
+886,Fuel Cells-RPN886 (R),10469,37,21
+887,Tanks-RPN887 (R),10469,92,28
+888,Escape Pods-RPN888 (R),10469,32,16
+889,Life Support Systems-RPN889 (R),10469,29,17
+890,Medical Utilities for Humans-RPN890 (R),12463,99,29
+891,Medical utilities for non-Humans-RPN891 (R),12463,52,18
+892,Ion-Engine-RPN892 (R),12463,68,14
+893,Booster Engines-RPN893 (R),12463,98,24
+894,FTL Engines-RPN894 (R),12463,76,37
+895,Thrusters-RPN895 (R),32488,71,21
+896,Hyper Drive-RPN896 (R),32488,97,45
+897,Warp Drive-RPN897 (R),41186,11,44
+898,Flux Capacitor-RPN898 (R),41186,76,31
+899,Kyber Capacitor (Black Market)-RPN899 (R),34114,86,44
+900,Nav Computer-RPN900 (R),34114,60,44
+901,Landing Gear-RPN901 (R),43244,39,38
+902,Artificial Gravity Generators-RPN902 (R),43244,57,32
+903,Cloaking Device (Black Market)-RPN903 (R),37361,85,28
+904,Shield Generators-RPN904 (R),37361,68,47
+905,Field Generators-RPN905 (R),47364,76,24
+906,WaveFront Generators-RPN906 (R),47364,34,10
+907,Deflector Screens-RPN907 (R),35738,33,26
+908,Backup Power Generators-RPN908 (R),35738,53,1
+909,Ion Blasters-RPN909 (R),45304,42,35
+910,Propulsion Blasters-RPN910 (R),45304,24,14
+911,Heat Blasters-RPN911 (R),38986,78,7
+912,Radiation Guns-RPN912 (R),38986,97,46
+913,Fuel Cells-RPN913 (R),49422,78,47
+914,Tanks-RPN914 (R),49422,5,14
+915,Escape Pods-RPN915 (R),214,40,1
+916,Life Support Systems-RPN916 (R),289,58,33
+917,Medical Utilities for Humans-RPN917 (R),214,20,6
+918,Medical utilities for non-Humans-RPN918 (R),214,41,20
+919,Ion-Engine-RPN919 (R),214,46,45
+920,Booster Engines-RPN920 (R),289,3,8
+921,FTL Engines-RPN921 (R),289,19,17
+922,Thrusters-RPN922 (R),289,31,25
+923,Hyper Drive-RPN923 (R),289,78,5
+924,Warp Drive-RPN924 (R),289,68,26
+925,Flux Capacitor-RPN925 (R),289,52,9
+926,Kyber Capacitor (Black Market)-RPN926 (R),360,8,9
+927,Nav Computer-RPN927 (R),360,19,42
+928,Landing Gear-RPN928 (R),360,55,4
+929,Artificial Gravity Generators-RPN929 (R),360,25,18
+930,Cloaking Device (Black Market)-RPN930 (R),360,32,24
+931,Shield Generators-RPN931 (R),360,59,23
+932,Field Generators-RPN932 (R),360,18,31
+933,WaveFront Generators-RPN933 (R),360,12,43
+934,Deflector Screens-RPN934 (R),360,27,21
+935,Backup Power Generators-RPN935 (R),519,24,14
+936,Ion Blasters-RPN936 (R),519,21,25
+937,Propulsion Blasters-RPN937 (R),519,4,16
+938,Heat Blasters-RPN938 (R),519,93,37
+939,Radiation Guns-RPN939 (R),503,29,37
+940,Fuel Cells-RPN940 (R),503,35,15
+941,Tanks-RPN941 (R),479,78,10
+942,Escape Pods-RPN942 (R),214,42,1
+943,Life Support Systems-RPN943 (R),289,56,22
+944,Medical Utilities for Humans-RPN944 (R),360,66,32
+945,Medical utilities for non-Humans-RPN945 (R),519,85,26
+946,Ion-Engine-RPN946 (R),360,25,30
+947,Booster Engines-RPN947 (R),432,82,21
+948,FTL Engines-RPN948 (R),286,57,25
+949,Thrusters-RPN949 (R),360,90,22
+950,Hyper Drive-RPN950 (R),503,92,40
+951,Warp Drive-RPN951 (R),289,25,30
+952,Flux Capacitor-RPN952 (R),1322,64,26
+953,Kyber Capacitor (Black Market)-RPN953 (R),1631,46,35
+954,Nav Computer-RPN954 (R),1005,66,19
+955,Landing Gear-RPN955 (R),1322,16,23
+956,Artificial Gravity Generators-RPN956 (R),1322,12,13
+957,Cloaking Device (Black Market)-RPN957 (R),1632,98,31
+958,Shield Generators-RPN958 (R),1632,78,28
+959,Field Generators-RPN959 (R),1632,47,16
+960,WaveFront Generators-RPN960 (R),1006,15,18
+961,Deflector Screens-RPN961 (R),1322,23,36
+962,Backup Power Generators-RPN962 (R),1006,36,21
+963,Ion Blasters-RPN963 (R),1631,93,29
+964,Propulsion Blasters-RPN964 (R),1006,11,7
+965,Heat Blasters-RPN965 (R),1322,17,39
+966,Radiation Guns-RPN966 (R),3820,96,6
+967,Fuel Cells-RPN967 (R),749,97,17
+968,Tanks-RPN968 (R),749,64,30
+969,Escape Pods-RPN969 (R),749,56,37
+970,Life Support Systems-RPN970 (R),1018,57,19
+971,Medical Utilities for Humans-RPN971 (R),300,73,26
+972,Medical utilities for non-Humans-RPN972 (R),298,21,20
+973,Ion-Engine-RPN973 (R),300,84,44
+974,Booster Engines-RPN974 (R),331,55,3
+975,FTL Engines-RPN975 (R),308,45,3
+976,Thrusters-RPN976 (R),300,27,6
+977,Hyper Drive-RPN977 (R),298,43,5
+978,Warp Drive-RPN978 (R),300,50,21
+979,Flux Capacitor-RPN979 (R),308,78,34
+980,Kyber Capacitor (Black Market)-RPN980 (R),300,26,12
+981,Nav Computer-RPN981 (R),298,43,2
+982,Landing Gear-RPN982 (R),300,14,24
+983,Artificial Gravity Generators-RPN983 (R),308,60,31
+984,Cloaking Device (Black Market)-RPN984 (R),300,67,17
+985,Shield Generators-RPN985 (R),298,91,3
+986,Field Generators-RPN986 (R),548,12,47
+987,WaveFront Generators-RPN987 (R),300,4,7
+988,Deflector Screens-RPN988 (R),308,51,40
+989,Backup Power Generators-RPN989 (R),300,53,40
+990,Ion Blasters-RPN990 (R),548,84,49
+991,Propulsion Blasters-RPN991 (R),300,69,48
+992,Heat Blasters-RPN992 (R),308,12,1
+993,Radiation Guns-RPN993 (R),356,34,6
+994,Fuel Cells-RPN994 (R),356,61,10
+995,Tanks-RPN995 (R),300,21,42
+996,Escape Pods-RPN996 (R),298,25,42
+997,Life Support Systems-RPN997 (R),356,93,44
+998,Medical Utilities for Humans-RPN998 (R),382,40,30
+999,Medical utilities for non-Humans-RPN999 (R),300,97,33
+1000,Ion-Engine-RPN1000 (R),298,79,34
+1001,Ion Blasters-RPN990 (R),548,84,49
+1002,Propulsion Blasters-RPN991 (R),300,69,48
+1003,Heat Blasters-RPN992 (R),308,12,1
+1004,Radiation Guns-RPN993 (R),356,34,6
+1005,Fuel Cells-RPN994 (R),356,61,10
+1006,Tanks-RPN995 (R),300,21,42
+1007,Escape Pods-RPN996 (R),298,25,42
+1008,Life Support Systems-RPN997 (R),356,93,44
+1009,Medical Utilities for Humans-RPN998 (R),382,40,30
+1010,Medical utilities for non-Humans-RPN999 (R),300,97,33
+1011,Ion-Engine-RPN1000 (R),298,79,34
+1012,Medical utilities for non-Humans-RPN891 (R),12463,52,18
+1013,Ion-Engine-RPN892 (R),12463,68,14
+1014,Booster Engines-RPN893 (R),12463,98,24
+1015,FTL Engines-RPN894 (R),12463,76,37
+1016,Thrusters-RPN895 (R),32488,71,21
+1017,Hyper Drive-RPN896 (R),32488,97,45
+1018,Warp Drive-RPN897 (R),41186,11,44
+1019,Flux Capacitor-RPN898 (R),41186,76,31
+1020,Kyber Capacitor (Black Market)-RPN899 (R),34114,86,44
+1021,Nav Computer-RPN900 (R),34114,60,44
+1022,Landing Gear-RPN901 (R),43244,39,38
+1023,Artificial Gravity Generators-RPN902 (R),43244,57,32
+1024,Cloaking Device (Black Market)-RPN903 (R),37361,85,28
+1025,Shield Generators-RPN904 (R),37361,68,47
+1026,Field Generators-RPN905 (R),47364,76,24
+1027,WaveFront Generators-RPN906 (R),47364,34,10
+1028,Deflector Screens-RPN907 (R),35738,33,26
+1029,Backup Power Generators-RPN908 (R),35738,53,1
+1030,Ion Blasters-RPN909 (R),45304,42,35
+1031,Propulsion Blasters-RPN910 (R),45304,24,14
+1032,Heat Blasters-RPN911 (R),38986,78,7
+1033,Radiation Guns-RPN912 (R),38986,97,46
+1034,Fuel Cells-RPN913 (R),49422,78,47
+1035,Tanks-RPN914 (R),49422,5,14
+1036,Escape Pods-RPN915 (R),214,40,1
+1037,Life Support Systems-RPN916 (R),289,58,33
+1038,Medical Utilities for Humans-RPN917 (R),214,20,6
+1039,Medical utilities for non-Humans-RPN918 (R),214,41,20
+1040,Ion-Engine-RPN919 (R),214,46,45
+1041,Booster Engines-RPN920 (R),289,3,8
+1042,FTL Engines-RPN921 (R),289,19,17
+1043,Thrusters-RPN922 (R),289,31,25
+1044,Hyper Drive-RPN923 (R),289,78,5
+1045,Warp Drive-RPN924 (R),289,68,26
+1046,Flux Capacitor-RPN925 (R),289,52,9
+1047,Kyber Capacitor (Black Market)-RPN926 (R),360,8,9
+1048,Nav Computer-RPN927 (R),360,19,42
+1049,Landing Gear-RPN928 (R),360,55,4
+1050,Artificial Gravity Generators-RPN929 (R),360,25,18
+1051,Cloaking Device (Black Market)-RPN930 (R),360,32,24
+1052,Shield Generators-RPN931 (R),360,59,23
+1053,Field Generators-RPN932 (R),360,18,31
+1054,WaveFront Generators-RPN933 (R),360,12,43
+1055,Deflector Screens-RPN934 (R),360,27,21
+1056,Backup Power Generators-RPN935 (R),519,24,14
+1057,Ion Blasters-RPN936 (R),519,21,25
+1058,Propulsion Blasters-RPN937 (R),519,4,16
+1059,Heat Blasters-RPN938 (R),519,93,37
+1060,Radiation Guns-RPN939 (R),503,29,37
+1061,Fuel Cells-RPN940 (R),503,35,15
+1062,Tanks-RPN941 (R),479,78,10
+1063,Escape Pods-RPN942 (R),214,42,1
+1064,Life Support Systems-RPN943 (R),289,56,22
+1065,Medical Utilities for Humans-RPN944 (R),360,66,32
+1066,Medical utilities for non-Humans-RPN945 (R),519,85,26
+1067,Ion-Engine-RPN946 (R),360,25,30
+1068,Booster Engines-RPN947 (R),432,82,21
+1069,FTL Engines-RPN948 (R),286,57,25
+1070,Thrusters-RPN949 (R),360,90,22
+1071,Hyper Drive-RPN950 (R),503,92,40
+1072,Warp Drive-RPN951 (R),289,25,30
+1073,Flux Capacitor-RPN952 (R),1322,64,26
+1074,Kyber Capacitor (Black Market)-RPN953 (R),1631,46,35
+1075,Nav Computer-RPN954 (R),1005,66,19
+1076,Landing Gear-RPN955 (R),1322,16,23
+1077,Artificial Gravity Generators-RPN956 (R),1322,12,13
+1078,Cloaking Device (Black Market)-RPN957 (R),1632,98,31
+1079,Shield Generators-RPN958 (R),1632,78,28
+1080,Field Generators-RPN959 (R),1632,47,16
+1081,WaveFront Generators-RPN960 (R),1006,15,18
+1082,Deflector Screens-RPN961 (R),1322,23,36
+1083,Backup Power Generators-RPN962 (R),1006,36,21
+1084,Ion Blasters-RPN963 (R),1631,93,29
+1085,Propulsion Blasters-RPN964 (R),1006,11,7
+1086,Heat Blasters-RPN965 (R),1322,17,39
+1087,Radiation Guns-RPN966 (R),3820,96,6
+1088,Fuel Cells-RPN967 (R),749,97,17
+1089,Tanks-RPN968 (R),749,64,30
+1090,Escape Pods-RPN969 (R),749,56,37
+1091,Life Support Systems-RPN970 (R),1018,57,19
+1092,Medical Utilities for Humans-RPN971 (R),300,73,26
+1093,Medical utilities for non-Humans-RPN972 (R),298,21,20
+1094,Ion-Engine-RPN973 (R),300,84,44
+1095,Booster Engines-RPN974 (R),331,55,3
+1096,FTL Engines-RPN975 (R),308,45,3
+1097,Thrusters-RPN976 (R),300,27,6
+1098,Hyper Drive-RPN977 (R),298,43,5
+1099,Warp Drive-RPN978 (R),300,50,21
+1100,Flux Capacitor-RPN979 (R),308,78,34
+1101,Kyber Capacitor (Black Market)-RPN980 (R),300,26,12
+1102,Nav Computer-RPN981 (R),298,43,2
+1103,Landing Gear-RPN982 (R),300,14,24
+1104,Artificial Gravity Generators-RPN983 (R),308,60,31
+1105,Cloaking Device (Black Market)-RPN984 (R),300,67,17
+1106,Shield Generators-RPN985 (R),298,91,3
+1107,Field Generators-RPN986 (R),548,12,47
+1108,WaveFront Generators-RPN987 (R),300,4,7
+1109,Deflector Screens-RPN988 (R),308,51,40
+1110,Backup Power Generators-RPN989 (R),300,53,40
+1111,Ion Blasters-RPN990 (R),548,84,49
+1112,Propulsion Blasters-RPN991 (R),300,69,48
+1113,Heat Blasters-RPN992 (R),308,12,1
+1114,Radiation Guns-RPN993 (R),356,34,6
+1115,Fuel Cells-RPN994 (R),356,61,10
+1116,Tanks-RPN995 (R),300,21,42
+1117,Escape Pods-RPN996 (R),298,25,42
+1118,Life Support Systems-RPN997 (R),356,93,44
+1119,Medical Utilities for Humans-RPN998 (R),382,40,30
+1120,Medical utilities for non-Humans-RPN999 (R),300,97,33
+1121,Ion-Engine-RPN1000 (R),298,79,34
+1122,Ion Blasters-RPN990 (R),548,84,49
+1123,Propulsion Blasters-RPN991 (R),300,69,48
+1124,Heat Blasters-RPN992 (R),308,12,1
+1125,Radiation Guns-RPN993 (R),356,34,6
+1126,Fuel Cells-RPN994 (R),356,61,10
+1127,Tanks-RPN995 (R),300,21,42
+1128,Escape Pods-RPN996 (R),298,25,42
+1129,Life Support Systems-RPN997 (R),356,93,44
+1130,Medical Utilities for Humans-RPN998 (R),382,40,30
+1131,Medical utilities for non-Humans-RPN999 (R),300,97,33
+1132,Ion-Engine-RPN1000 (R),298,79,34
+1133,Hyper Drive-RPN950 (R),503,92,40
+1134,Warp Drive-RPN951 (R),289,25,30
+1135,Flux Capacitor-RPN952 (R),1322,64,26
+1136,Kyber Capacitor (Black Market)-RPN953 (R),1631,46,35
+1137,Nav Computer-RPN954 (R),1005,66,19
+1138,Landing Gear-RPN955 (R),1322,16,23
+1139,Artificial Gravity Generators-RPN956 (R),1322,12,13
+1140,Cloaking Device (Black Market)-RPN957 (R),1632,98,31
+1141,Shield Generators-RPN958 (R),1632,78,28
+1142,Field Generators-RPN959 (R),1632,47,16
+1143,WaveFront Generators-RPN960 (R),1006,15,18
+1144,Deflector Screens-RPN961 (R),1322,23,36
+1145,Backup Power Generators-RPN962 (R),1006,36,21
+1146,Ion Blasters-RPN963 (R),1631,93,29
+1147,Propulsion Blasters-RPN964 (R),1006,11,7
+1148,Heat Blasters-RPN965 (R),1322,17,39
+1149,Radiation Guns-RPN966 (R),3820,96,6
+1150,Fuel Cells-RPN967 (R),749,97,17
+1151,Tanks-RPN968 (R),749,64,30
+1152,Escape Pods-RPN969 (R),749,56,37
+1153,Life Support Systems-RPN970 (R),1018,57,19
+1154,Medical Utilities for Humans-RPN971 (R),300,73,26
+1155,Medical utilities for non-Humans-RPN972 (R),298,21,20
+1156,Ion-Engine-RPN973 (R),300,84,44
+1157,Booster Engines-RPN974 (R),331,55,3
+1158,FTL Engines-RPN975 (R),308,45,3
+1159,Thrusters-RPN976 (R),300,27,6
+1160,Hyper Drive-RPN977 (R),298,43,5
+1161,Warp Drive-RPN978 (R),300,50,21
+1162,Flux Capacitor-RPN979 (R),308,78,34
+1163,Kyber Capacitor (Black Market)-RPN980 (R),300,26,12
+1164,Nav Computer-RPN981 (R),298,43,2
+1165,Landing Gear-RPN982 (R),300,14,24
+1166,Artificial Gravity Generators-RPN983 (R),308,60,31
+1167,Cloaking Device (Black Market)-RPN984 (R),300,67,17
+1168,Shield Generators-RPN985 (R),298,91,3
+1169,Field Generators-RPN986 (R),548,12,47
+1170,WaveFront Generators-RPN987 (R),300,4,7
+1171,Deflector Screens-RPN988 (R),308,51,40
+1172,Backup Power Generators-RPN989 (R),300,53,40
+1173,Ion Blasters-RPN990 (R),548,84,49
+1174,Propulsion Blasters-RPN991 (R),300,69,48
+1175,Heat Blasters-RPN992 (R),308,12,1
+1176,Radiation Guns-RPN993 (R),356,34,6
+1177,Fuel Cells-RPN994 (R),356,61,10
+1178,Tanks-RPN995 (R),300,21,42
+1179,Escape Pods-RPN996 (R),298,25,42
+1180,Life Support Systems-RPN997 (R),356,93,44
+1181,Medical Utilities for Humans-RPN998 (R),382,40,30
+1182,Medical utilities for non-Humans-RPN999 (R),300,97,33
+1183,Ion-Engine-RPN1000 (R),298,79,34
+1184,Ion Blasters-RPN990 (R),548,84,49
+1185,Propulsion Blasters-RPN991 (R),300,69,48
+1186,Heat Blasters-RPN992 (R),308,12,1
+1187,Radiation Guns-RPN993 (R),356,34,6
+1188,Fuel Cells-RPN994 (R),356,61,10
+1189,Tanks-RPN995 (R),300,21,42
+1190,Escape Pods-RPN996 (R),298,25,42
+1191,Life Support Systems-RPN997 (R),356,93,44
+1192,Medical Utilities for Humans-RPN998 (R),382,40,30
+1193,Medical utilities for non-Humans-RPN999 (R),300,97,33
+1194,Ion-Engine-RPN1000 (R),298,79,34
+1195,Tanks-RPN995 (R),300,21,42
+1196,Escape Pods-RPN996 (R),298,25,42
+1197,Life Support Systems-RPN997 (R),356,93,44
+1198,Medical Utilities for Humans-RPN998 (R),382,40,30
+1199,Medical utilities for non-Humans-RPN999 (R),300,97,33
+1200,Ion-Engine-RPN1000 (R),298,79,34
